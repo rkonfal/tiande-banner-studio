@@ -257,13 +257,13 @@ function getVariantImageList(variant) {
     const altImages = (variant.altImagePaths || []).filter(Boolean);
     if (variant.imageMode === 'lifestyle') return (altImages.length ? altImages : mainImages).slice(0, 2);
     if (variant.imageMode === 'packshot') return mainImages.slice(0, 2);
-    return (altImages.length ? altImages : mainImages).slice(0, 2);
+    return mainImages.slice(0, 2);
   }
   const mainImage = variant.imagePath || '';
   const altImage = (variant.altImagePaths || []).find(Boolean) || '';
   if (variant.imageMode === 'lifestyle') return [altImage || mainImage].filter(Boolean);
   if (variant.imageMode === 'packshot') return [mainImage].filter(Boolean);
-  return [altImage || mainImage].filter(Boolean);
+  return [mainImage].filter(Boolean);
 }
 
 function setVariantImageAt(variant, index, value, mode = 'packshot') {
@@ -1073,7 +1073,7 @@ const defaultItem = getCatalogItems('product')[0];
 if (defaultItem) {
   hydrateFormFromCatalog(defaultItem, 'clean');
   catalogSelect.value = defaultItem.id;
-  form.elements.imageMode.value = 'auto';
+  form.elements.imageMode.value = 'packshot';
   updateFeedStrip('product', defaultItem.id);
   variants = generateVariants({
     inputType: 'product',
@@ -1083,7 +1083,7 @@ if (defaultItem) {
     benefits: defaultItem.benefits.join('\n'),
     cta: defaultItem.cta,
     assetMode: 'auto',
-    imageMode: 'auto',
+    imageMode: 'packshot',
     variantCount: 5,
     styleFamily: 'clean',
   });
