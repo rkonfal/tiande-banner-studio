@@ -585,18 +585,37 @@ function loadImage(src) {
 function removeWhiteBackground(ctx, x, y, width, height) {
   const imageData = ctx.getImageData(x, y, width, height);
   const data = imageData.data;
+
   for (let i = 0; i < data.length; i += 4) {
     const r = data[i];
     const g = data[i + 1];
     const b = data[i + 2];
+    const a = data[i + 3];
+    if (!a) continue;
+
     const brightness = (r + g + b) / 3;
     const spread = Math.max(Math.abs(r - g), Math.abs(g - b), Math.abs(r - b));
-    if (brightness > 242 && spread < 18) {
+
+    if (brightness > 248 && spread < 12) {
       data[i + 3] = 0;
-    } else if (brightness > 232 && spread < 24) {
-      data[i + 3] = Math.max(0, data[i + 3] - 180);
+      continue;
+    }
+
+    if (brightness > 240 && spread < 18) {
+      data[i + 3] = Math.max(0, Math.round(a * 0.18));
+      continue;
+    }
+
+    if (brightness > 232 && spread < 26) {
+      data[i + 3] = Math.max(0, Math.round(a * 0.45));
+      continue;
+    }
+
+    if (brightness > 222 && spread < 34) {
+      data[i + 3] = Math.max(0, Math.round(a * 0.72));
     }
   }
+
   ctx.putImageData(imageData, x, y);
 }
 
@@ -687,6 +706,16 @@ async function renderVariantPng(variant, format) {
         const shouldRemoveWhite = variant.imageMode !== 'lifestyle' && (!src.startsWith('data:') || variant.imageMode === 'packshot');
         if (shouldRemoveWhite) {
           removeWhiteBackground(ctx, Math.round(x), Math.round(y), Math.round(packshotAreaW), Math.round(packshotAreaH));
+
+          ctx.save();
+          ctx.globalCompositeOperation = 'destination-over';
+          ctx.shadowColor = 'rgba(58, 35, 20, 0.16)';
+          ctx.shadowBlur = 28;
+          ctx.shadowOffsetY = 14;
+          drawRoundedRect(ctx, x + packshotAreaW * 0.08, y + packshotAreaH * 0.08, packshotAreaW * 0.72, packshotAreaH * 0.78, 28);
+          ctx.fillStyle = 'rgba(255,255,255,0.01)';
+          ctx.fill();
+          ctx.restore();
         }
       } catch {
         drawPackshot(ctx, variant.packshotShape, packshotAreaX + idx * width * 0.06, packshotAreaY + idx * height * 0.03, packshotAreaW, packshotAreaH, variant.packshotPalette, variant.assetSlots[idx] || 'packshot');
