@@ -1,0 +1,238 @@
+<!doctype html>
+<html lang="cs">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Banner Studio</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="sidebar">
+        <div class="brand">
+          <div class="brand-mark">KT</div>
+          <div>
+            <div class="eyebrow">Interní nástroj</div>
+            <h1>Banner Studio</h1>
+          </div>
+        </div>
+
+        <form id="generator-form" class="panel form-panel">
+          <h2>Zadání</h2>
+
+          <label>
+            Typ vstupu
+            <select name="inputType" id="input-type-select">
+              <option value="product">Produkt</option>
+              <option value="bundle">Sestava produktů</option>
+            </select>
+          </label>
+
+          <label>
+            Produkt / sestava z katalogu
+            <select name="catalogId" id="catalog-select"></select>
+          </label>
+
+          <label>
+            Název produktu / sestavy
+            <input name="productName" value="Kolagen Active" />
+          </label>
+
+          <label>
+            Hlavní claim
+            <input name="headline" value="Komplexní lifting pro obličej, krk i tělo" />
+          </label>
+
+          <label>
+            Benefity
+            <textarea name="benefits" rows="5">Vyhlazuje pleť
+Podporuje pevnější kontury
+Snadné každodenní použití
+Oblíbené anti-age řešení</textarea>
+          </label>
+
+          <label>
+            CTA
+            <input name="cta" value="Nakoupit teď" />
+          </label>
+
+          <label>
+            Asset režim
+            <select name="assetMode">
+              <option value="auto">Auto podle feedu</option>
+              <option value="single-packshot">Single packshot</option>
+              <option value="bundle-stack">Bundle stack</option>
+            </select>
+          </label>
+
+          <label>
+            Počet variant
+            <input name="variantCount" type="number" min="5" max="10" value="5" />
+          </label>
+
+          <label>
+            Styl
+            <select name="styleFamily">
+              <option value="clean">Clean beauty</option>
+              <option value="promo">Promo / akce</option>
+              <option value="arrows">Se šipkama</option>
+            </select>
+          </label>
+
+          <button type="submit" class="primary-btn">Vygenerovat preview</button>
+        </form>
+
+        <div class="panel notes-panel">
+          <h2>Stav V1</h2>
+          <ul>
+            <li>preview workflow hotový jako scaffold</li>
+            <li>approval toggle připravený</li>
+            <li>feed model pro produkty i sestavy připravený</li>
+            <li>asset slots a template families připravené</li>
+            <li>PNG export zatím placeholder</li>
+          </ul>
+        </div>
+      </aside>
+
+      <main class="main-content">
+        <section class="hero panel">
+          <div>
+            <div class="eyebrow">Workflow</div>
+            <h2>Preview nejdřív, PNG až po schválení</h2>
+            <p>
+              Tahle první verze simuluje to, jak bude appka generovat 5 až 10 kreativ najednou,
+              každou rovnou ve 4 formátech.
+            </p>
+          </div>
+          <div class="stats">
+            <div><strong id="stat-variants">0</strong><span>variant</span></div>
+            <div><strong>4</strong><span>formáty</span></div>
+            <div><strong id="stat-approved">0</strong><span>schváleno</span></div>
+          </div>
+        </section>
+
+        <section class="toolbar panel">
+          <div>
+            <h3>Varianty</h3>
+            <p id="toolbar-summary">Zatím nic nevygenerováno.</p>
+          </div>
+          <div class="toolbar-actions">
+            <button id="approve-all" class="secondary-btn" type="button">Schválit vše</button>
+            <button id="export-selected" class="primary-btn ghost" type="button">Export schválených PNG</button>
+          </div>
+        </section>
+
+        <section class="export-panel panel">
+          <div>
+            <div class="eyebrow">Export</div>
+            <h3>PNG pipeline</h3>
+            <p id="export-summary">Schval varianty a pak je exportuj jako skutečné PNG soubory.</p>
+          </div>
+          <div class="export-actions">
+            <button id="download-all" class="secondary-btn" type="button">Stáhnout vše</button>
+            <button id="download-zip" class="secondary-btn" type="button">ZIP export</button>
+            <button id="download-manifest" class="secondary-btn" type="button">Manifest</button>
+            <div id="export-links" class="export-links"></div>
+          </div>
+        </section>
+
+        <section class="project-panel panel">
+          <div>
+            <div class="eyebrow">Projekt</div>
+            <h3>Uložení a návrat</h3>
+            <p id="project-summary">Můžeš uložit rozpracovanou sadu bannerů a vrátit se k ní později.</p>
+            <div id="project-list" class="project-list"></div>
+          </div>
+          <div class="project-actions">
+            <input id="project-name" type="text" placeholder="Název projektu" value="banner-set-1" />
+            <button id="save-project" class="secondary-btn" type="button">Uložit projekt</button>
+            <button id="load-project" class="secondary-btn" type="button">Načíst poslední</button>
+            <button id="export-project" class="secondary-btn" type="button">Export projektu</button>
+            <label class="import-label secondary-btn">
+              Import projektu
+              <input id="import-project" type="file" accept="application/json" hidden />
+            </label>
+          </div>
+        </section>
+
+        <section id="variant-editor" class="editor-panel panel hidden">
+          <div class="editor-head">
+            <div>
+              <div class="eyebrow">Editor varianty</div>
+              <h3 id="editor-title">Varianta</h3>
+            </div>
+            <button id="close-editor" class="secondary-btn" type="button">Zavřít editor</button>
+          </div>
+          <div class="editor-grid">
+            <label>
+              Headline
+              <input id="editor-headline" type="text" />
+            </label>
+            <label>
+              Subheadline
+              <input id="editor-subheadline" type="text" />
+            </label>
+            <label>
+              CTA
+              <input id="editor-cta" type="text" />
+            </label>
+            <label>
+              Badge
+              <input id="editor-badge" type="text" />
+            </label>
+            <label class="editor-full">
+              Benefity
+              <textarea id="editor-benefits" rows="4"></textarea>
+            </label>
+            <div class="editor-full asset-manager">
+              <div>
+                <div class="eyebrow">Asset manager</div>
+                <h4>Packshoty varianty</h4>
+                <p class="asset-help">Můžeš nechat feedový packshot, vložit vlastní URL nebo nahrát vlastní obrázek.</p>
+              </div>
+              <div id="asset-slots" class="asset-slots"></div>
+            </div>
+          </div>
+          <div class="editor-actions">
+            <button id="save-editor" class="primary-btn" type="button">Uložit změny</button>
+          </div>
+        </section>
+
+        <section class="feed-strip panel">
+          <div><strong id="feed-name">-</strong><span id="feed-meta">-</span></div>
+          <div><strong id="feed-assets">-</strong><span>assety</span></div>
+          <div><strong id="feed-price">-</strong><span>cena</span></div>
+        </section>
+
+        <section id="variants-grid" class="variants-grid"></section>
+      </main>
+    </div>
+
+    <template id="variant-template">
+      <article class="variant-card panel">
+        <div class="variant-head">
+          <div>
+            <div class="eyebrow variant-index"></div>
+            <h3 class="variant-title"></h3>
+          </div>
+          <div class="status-pill">Draft</div>
+        </div>
+
+        <div class="variant-copy"></div>
+
+        <div class="variant-assets"></div>
+
+        <div class="format-grid"></div>
+
+        <div class="variant-actions">
+          <button class="secondary-btn approve-btn" type="button">Schválit</button>
+          <button class="secondary-btn regenerate-btn" type="button">Přegenerovat text</button>
+          <button class="secondary-btn edit-btn" type="button">Upravit detail</button>
+          <button class="secondary-btn duplicate-btn" type="button">Duplikovat</button>
+        </div>
+      </article>
+    </template>
+
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>
