@@ -21,10 +21,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Zpevnění kontur",
+      "Příjemná relaxace",
+      "Pleť působí svěžeji",
+      "Snadné použití kdekoli"
     ],
     "colors": [
       "#f4dcc7",
@@ -59,10 +59,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Šetrná exfoliace",
+      "Hloubkové čištění pórů",
+      "Sjednocený tón pleti",
+      "Hydratace a komfort"
     ],
     "colors": [
       "#f4dcc7",
@@ -139,10 +139,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Vybraný produkt z feedu",
+      "Reálná skladovost",
+      "Připravené pro banner",
+      "Rychlé nasazení do kreativy"
     ],
     "colors": [
       "#f4dcc7",
@@ -177,10 +177,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Každodenní rutina",
-      "Svěží dojem",
-      "Pečující formule",
-      "Silný e-shop vizuál"
+      "Hebkost a lesk",
+      "Snadné rozčesávání",
+      "Intenzivní výživa",
+      "Příjemná textura"
     ],
     "colors": [
       "#f4dcc7",
@@ -217,10 +217,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Každodenní rutina",
-      "Svěží dojem",
-      "Pečující formule",
-      "Silný e-shop vizuál"
+      "Pocit pevnějších kořínků",
+      "Hebkost a lesk",
+      "Snadné rozčesávání",
+      "Ochrana barvy"
     ],
     "colors": [
       "#f4dcc7",
@@ -257,10 +257,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Každodenní rutina",
-      "Svěží dojem",
-      "Pečující formule",
-      "Silný e-shop vizuál"
+      "Hebkost a pružnost",
+      "Hydratace při častém mytí",
+      "Podpora čisté pokožky hlavy",
+      "Dva způsoby použití"
     ],
     "colors": [
       "#f4dcc7",
@@ -298,10 +298,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Vybraný produkt z feedu",
+      "Reálná skladovost",
+      "Připravené pro banner",
+      "Rychlé nasazení do kreativy"
     ],
     "colors": [
       "#f4dcc7",
@@ -372,10 +372,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Vybraný produkt z feedu",
+      "Reálná skladovost",
+      "Připravené pro banner",
+      "Rychlé nasazení do kreativy"
     ],
     "colors": [
       "#f4dcc7",
@@ -411,10 +411,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Obsah balíčku 📖 Inspirace Baťa (kód produktu",
+      "📖 Jak prodávat z očí do očí (kód produktu",
+      "Ráno – denní rituál s Inspirací Baťa",
+      "Večer nebo o víkendu – studium prodejních"
     ],
     "colors": [
       "#f4dcc7",
@@ -449,10 +449,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Vybraný produkt z feedu",
+      "Reálná skladovost",
+      "Připravené pro banner",
+      "Rychlé nasazení do kreativy"
     ],
     "colors": [
       "#f4dcc7",
@@ -488,10 +488,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Návod k použití Unavené nohy po dlouhém dni",
+      "Namožené svaly po fyzické aktivitě",
+      "Podpora komfortu konkrétních míst",
+      "Preventivní péče"
     ],
     "colors": [
       "#f4dcc7",
@@ -524,10 +524,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Holistický přístup ke zdraví – balíček",
+      "Obsah balíčku Hygienický ústní sprej Jedlový",
+      "Zázvorový nápoj (kód",
+      "DÁREK"
     ],
     "colors": [
       "#f4dcc7",
@@ -562,10 +562,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Relaxační rituál",
-      "Voňavý zážitek",
-      "Domácí wellness",
-      "Dárkový potenciál"
+      "Návod k použití Základní péče (2-3x týdně)",
+      "Intenzivní regenerace (1x týdně)",
+      "Styling (dle potřeby)",
+      "Upozornění"
     ],
     "colors": [
       "#f4dcc7",
@@ -600,10 +600,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Liftující dojem",
-      "Anti-age rutina",
-      "Prémiová péče",
-      "Výrazný hero produkt"
+      "Návod k použití Týdenní rituál pro maximální",
+      "Den 3 (večer)",
+      "Den 4 (večer)",
+      "Den 5 (večer)"
     ],
     "colors": [
       "#f4dcc7",
@@ -636,10 +636,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Vybraný produkt z feedu",
+      "Reálná skladovost",
+      "Připravené pro banner",
+      "Rychlé nasazení do kreativy"
     ],
     "colors": [
       "#f4dcc7",
@@ -754,10 +754,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Relaxační rituál",
-      "Voňavý zážitek",
-      "Domácí wellness",
-      "Dárkový potenciál"
+      "Péče od kořínků po konečky",
+      "Pocit posílení",
+      "Kondicionační efekt",
+      "Komfort pokožky hlavy"
     ],
     "colors": [
       "#f4dcc7",
@@ -794,10 +794,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Vybraný produkt z feedu",
+      "Reálná skladovost",
+      "Připravené pro banner",
+      "Rychlé nasazení do kreativy"
     ],
     "colors": [
       "#f4dcc7",
@@ -830,10 +830,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Vybraný produkt z feedu",
+      "Reálná skladovost",
+      "Připravené pro banner",
+      "Rychlé nasazení do kreativy"
     ],
     "colors": [
       "#f4dcc7",
@@ -866,10 +866,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Vybraný produkt z feedu",
+      "Reálná skladovost",
+      "Připravené pro banner",
+      "Rychlé nasazení do kreativy"
     ],
     "colors": [
       "#f4dcc7",
@@ -904,10 +904,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Vybraný produkt z feedu",
+      "Reálná skladovost",
+      "Připravené pro banner",
+      "Rychlé nasazení do kreativy"
     ],
     "colors": [
       "#f4dcc7",
@@ -942,10 +942,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Obsah balíčku Zlatophyt (kód",
+      "DÁREK",
+      "Návod k použití Zlatophyt – bylinná kapsle",
+      "Jak dlouho"
     ],
     "colors": [
       "#f4dcc7",
@@ -980,10 +980,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Hydratační fokus",
-      "Svěží vzhled",
-      "Lehká péče",
-      "Rychlá beauty rutina"
+      "Blur efekt",
+      "Přípravek 3v1",
+      "Přirozený vzhled",
+      "Lehká textura"
     ],
     "colors": [
       "#f4dcc7",
@@ -1020,10 +1020,9 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Obsah balíčku Fytogel Slaviton tianDe (kód",
+      "DÁREK",
+      "Upozornění"
     ],
     "colors": [
       "#f4dcc7",
@@ -1058,10 +1057,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Vybraný produkt z feedu",
+      "Reálná skladovost",
+      "Připravené pro banner",
+      "Rychlé nasazení do kreativy"
     ],
     "colors": [
       "#f4dcc7",
@@ -1136,10 +1135,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Liftující dojem",
-      "Anti-age rutina",
-      "Prémiová péče",
-      "Výrazný hero produkt"
+      "Obsah balíčku Kolagen s višňovou a",
+      "Modelující gel na tvar obličeje (kód",
+      "Liftingový krém na kontury očí (kód",
+      "Intenzivní liftingový krém na obličej (kód"
     ],
     "colors": [
       "#f1ddd0",
@@ -1174,10 +1173,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Celodenní pocit svěžesti",
+      "Přírodní materiály",
+      "Respektuje přirozený komfort",
+      "Praktické jednotlivé balení"
     ],
     "colors": [
       "#f4dcc7",
@@ -1214,10 +1213,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Celodenní pocit svěžesti",
+      "Přírodní materiály",
+      "Respektuje přirozený komfort",
+      "Praktické jednotlivé balení"
     ],
     "colors": [
       "#f4dcc7",
@@ -1254,10 +1253,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Celodenní pocit svěžesti",
+      "Přírodní materiály",
+      "Respektuje přirozený komfort",
+      "Praktické jednotlivé balení"
     ],
     "colors": [
       "#f4dcc7",
@@ -1294,10 +1293,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Příjemný pocit díky bylinné fytomembráně",
+      "Prodyšnost z přírodní bavlny",
+      "Spolehlivé křidélka",
+      "Expresní test pH v balení"
     ],
     "colors": [
       "#f4dcc7",
@@ -1334,10 +1333,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Intenzivní bylinná péče",
+      "Pocit svěžesti po celý den",
+      "Šetrné materiály",
+      "Prodyšnost a komfort"
     ],
     "colors": [
       "#f4dcc7",
@@ -1374,10 +1373,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Intenzivní bylinná péče",
+      "Pocit svěžesti po celý den",
+      "Šetrné materiály",
+      "Prodyšnost a komfort"
     ],
     "colors": [
       "#f4dcc7",
@@ -1414,10 +1413,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Intenzivní bylinná péče",
+      "Pocit svěžesti po celý den",
+      "Šetrné materiály",
+      "Prodyšnost a komfort"
     ],
     "colors": [
       "#f4dcc7",
@@ -1454,10 +1453,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Intenzivní bylinná péče",
+      "Pocit svěžesti po celý den",
+      "Šetrné materiály",
+      "Prodyšnost a komfort"
     ],
     "colors": [
       "#f4dcc7",
@@ -1494,10 +1493,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Pocit svěžesti po celý den",
+      "Jemnost k pokožce",
+      "Ultra tenký profil",
+      "Přírodní bylinný komplex"
     ],
     "colors": [
       "#f4dcc7",
@@ -1534,10 +1533,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Patentovaná fytomembrána",
+      "Prodyšnost a svěžest",
+      "Dlouhotrvající pohodlí",
+      "Expresní pH test v balení"
     ],
     "colors": [
       "#f4dcc7",
@@ -1573,10 +1572,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Kompletní péče v jednom balíčku – pilník a",
+      "Obsah balíčku Lešticí pilník na pedikúru",
+      "DÁREK",
+      "Upozornění"
     ],
     "colors": [
       "#f4dcc7",
@@ -1614,7 +1613,7 @@ export const realProductFeed = [
       "Relaxační rituál",
       "Voňavý zážitek",
       "Domácí wellness",
-      "Dárkový potenciál"
+      "Hladší dojem pokožky"
     ],
     "colors": [
       "#f4dcc7",
@@ -1649,10 +1648,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Obsah balíčku Regenerační sérum v kapslích",
+      "Regenerační sérum v kapslích na pokožku",
+      "DÁREK",
+      "Krok – Péče o oční okolí (sérum kód 10102)"
     ],
     "colors": [
       "#f4dcc7",
@@ -1687,10 +1686,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Obsah balíčku Vodou rozpustná maska na",
+      "DÁREK",
+      "Frekvence",
+      "Délka používání"
     ],
     "colors": [
       "#f4dcc7",
@@ -1725,10 +1724,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Péče o tělo",
+      "Zdraví",
+      "S zelený čaj",
+      "Nefritová svěžest"
     ],
     "colors": [
       "#f4dcc7",
@@ -1765,10 +1764,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Spolehlivá noční ochrana",
+      "Bylinný komplex pro pocit svěžesti",
+      "Prodyšná vrchní vrstva",
+      "Ochranná křidélka"
     ],
     "colors": [
       "#f4dcc7",
@@ -1804,10 +1803,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Péče o tělo",
+      "Zdraví",
+      "S zelený čaj",
+      "Nefritová svěžest"
     ],
     "colors": [
       "#f4dcc7",
@@ -1844,10 +1843,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Super tenký profil (15 × 6 cm)",
+      "Celodenní pocit svěžesti",
+      "Prodyšná bavlna",
+      "Šetrná péče o intimní partie"
     ],
     "colors": [
       "#f4dcc7",
@@ -1883,10 +1882,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Pocit svěžesti",
+      "Jemnost k pokožce",
+      "Respekt k přirozenému prostředí",
+      "Praktičnost"
     ],
     "colors": [
       "#f4dcc7",
@@ -1923,10 +1922,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Péče o pleť",
+      "Péče o vlasy",
+      "Péče o tělo",
+      "Zdraví"
     ],
     "colors": [
       "#f4dcc7",
@@ -1959,10 +1958,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Péče o pleť",
+      "Péče o vlasy",
+      "Péče o tělo",
+      "Zdraví"
     ],
     "colors": [
       "#f4dcc7",
@@ -1995,10 +1994,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Péče o pleť",
+      "Péče o vlasy",
+      "Péče o tělo",
+      "Zdraví"
     ],
     "colors": [
       "#f4dcc7",
@@ -2033,10 +2032,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Péče o pleť",
+      "Péče o vlasy",
+      "Péče o tělo",
+      "Zdraví"
     ],
     "colors": [
       "#f4dcc7",
@@ -2069,10 +2068,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Péče o pleť",
+      "Péče o vlasy",
+      "Péče o tělo",
+      "Zdraví"
     ],
     "colors": [
       "#f4dcc7",
@@ -2105,10 +2104,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Péče o pleť",
+      "Péče o vlasy",
+      "Péče o tělo",
+      "Zdraví"
     ],
     "colors": [
       "#f4dcc7",
@@ -2141,10 +2140,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Jemné štětinky",
+      "Ergonomická rukojeť",
+      "Odnímatelná hlavice",
+      "Speciální tvar štětinek"
     ],
     "colors": [
       "#f4dcc7",
@@ -2179,10 +2178,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Jemné štětinky",
+      "Ergonomická rukojeť",
+      "Odnímatelná hlavice",
+      "Speciální tvar štětinek"
     ],
     "colors": [
       "#f4dcc7",
@@ -2217,10 +2216,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Jemné štětinky",
+      "Ergonomická rukojeť",
+      "Odnímatelná hlavice",
+      "Speciální tvar štětinek"
     ],
     "colors": [
       "#f4dcc7",
@@ -2255,10 +2254,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Jemné štětinky",
+      "Ergonomická rukojeť",
+      "Odnímatelná hlavice",
+      "Speciální tvar štětinek"
     ],
     "colors": [
       "#f4dcc7",
@@ -2293,10 +2292,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Obsah balíčku Kapsle na hygienické praní",
+      "Utěrka-skraber na úklid „2v1\" tianDe (kód",
+      "DÁREK",
+      "Návod k použití Každodenní rutina s balíčkem"
     ],
     "colors": [
       "#f4dcc7",
@@ -2334,7 +2333,7 @@ export const realProductFeed = [
       "Relaxační rituál",
       "Voňavý zážitek",
       "Domácí wellness",
-      "Dárkový potenciál"
+      "Hladší dojem pokožky"
     ],
     "colors": [
       "#f4dcc7",
@@ -2403,10 +2402,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Jemná exfoliace bez mechanických částic",
+      "Pocit čistoty a svěžesti",
+      "Komfortní péče pro každý typ pleti",
+      "Snadný rituál"
     ],
     "colors": [
       "#f4dcc7",
@@ -2445,10 +2444,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Bezšmouhový výsledek",
+      "Šetrnost k povrchům",
+      "Vysoká absorpce",
+      "Úklid jen s vodou"
     ],
     "colors": [
       "#f4dcc7",
@@ -2487,10 +2486,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Vybraný produkt z feedu",
+      "Reálná skladovost",
+      "Připravené pro banner",
+      "Rychlé nasazení do kreativy"
     ],
     "colors": [
       "#f4dcc7",
@@ -2526,10 +2525,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Tradiční bylina v moderní formě",
+      "Vitamín B2 pro snížení únavy",
+      "Podpora energetického metabolismu",
+      "Jednoduchý denní rituál"
     ],
     "colors": [
       "#f4dcc7",
@@ -2567,10 +2566,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Liftující dojem",
-      "Anti-age rutina",
-      "Prémiová péče",
-      "Výrazný hero produkt"
+      "Intenzivní hydratace",
+      "Chladivý komfort",
+      "Rozjasnění pohledu",
+      "Ultralehká textura"
     ],
     "colors": [
       "#f4dcc7",
@@ -2689,10 +2688,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Hydratační fokus",
-      "Svěží vzhled",
-      "Lehká péče",
-      "Rychlá beauty rutina"
+      "Hydratace a výživa",
+      "Lehká textura",
+      "Péče 2v1",
+      "Bez parabenů a minerálních olejů"
     ],
     "colors": [
       "#f4dcc7",
@@ -2730,10 +2729,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Hydratační fokus",
-      "Svěží vzhled",
-      "Lehká péče",
-      "Rychlá beauty rutina"
+      "Synergie fucoidanu napříč všemi produkty –",
+      "Obsah balíčku Fucoidan čisticí mléko na",
+      "Fucoidan pleťová voda (kód",
+      "FUCOIDAN anti-aging krém na obličej (kód"
     ],
     "colors": [
       "#f4dcc7",
@@ -2768,10 +2767,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Hydratační fokus",
-      "Svěží vzhled",
-      "Lehká péče",
-      "Rychlá beauty rutina"
+      "Důkladné dočištění",
+      "Hydratace bez alkoholu",
+      "Zjemnění vzhledu pórů",
+      "Podpora účinnosti další péče"
     ],
     "colors": [
       "#f4dcc7",
@@ -2808,10 +2807,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Hydratační fokus",
-      "Svěží vzhled",
-      "Lehká péče",
-      "Rychlá beauty rutina"
+      "Hydratace při čištění",
+      "Šetrné snímání make-upu",
+      "Anti-age péče od prvního kroku",
+      "Komfort i pro citlivou pleť"
     ],
     "colors": [
       "#f4dcc7",
@@ -2849,10 +2848,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Liftující dojem",
-      "Anti-age rutina",
-      "Prémiová péče",
-      "Výrazný hero produkt"
+      "Obsah balíčku Fucoidan čistící mléko na",
+      "Fucoidan pleťová voda (kód",
+      "Fucoidan anti-aging krém na obličej (kód",
+      "DÁREK"
     ],
     "colors": [
       "#f4dcc7",
@@ -2887,10 +2886,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Vybraný produkt z feedu",
+      "Reálná skladovost",
+      "Připravené pro banner",
+      "Rychlé nasazení do kreativy"
     ],
     "colors": [
       "#f4dcc7",
@@ -2928,10 +2927,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Každodenní rutina",
-      "Svěží dojem",
-      "Pečující formule",
-      "Silný e-shop vizuál"
+      "Péče o vlasy a kůži",
+      "Podpora imunity",
+      "Komplex vitamínů a minerálů",
+      "Přírodní extrakty"
     ],
     "colors": [
       "#f4dcc7",
@@ -2968,10 +2967,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Podpora trávicího systému",
+      "Podpora přirozené obranyschopnosti",
+      "Antioxidační vlastnosti",
+      "Podpora funkce ledvin"
     ],
     "colors": [
       "#f4dcc7",
@@ -3009,10 +3008,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Adaptogenní rozchodnice",
+      "Gelová forma v sáčcích",
+      "Bez kofeinu",
+      "Vitamín C (15 % RHP) a vitamín E (50 % RHP)"
     ],
     "colors": [
       "#f4dcc7",
@@ -3050,9 +3049,9 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
+      "Okamžitý chladivý pocit",
+      "Bylinný komplex z Altaje",
+      "Lehká textura",
       "Univerzální použití"
     ],
     "colors": [
@@ -3094,10 +3093,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Bylinný komplex",
+      "L-tryptofan",
+      "Jednoduchý režim",
+      "Přírodní složení"
     ],
     "colors": [
       "#f4dcc7",
@@ -3133,10 +3132,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Vybraný produkt z feedu",
+      "Reálná skladovost",
+      "Připravené pro banner",
+      "Rychlé nasazení do kreativy"
     ],
     "colors": [
       "#f4dcc7",
@@ -3171,10 +3170,9 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Péče o pleť",
+      "S šalvěj",
+      "Master Herb"
     ],
     "colors": [
       "#f4dcc7",
@@ -3210,10 +3208,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Jednoduchý denní rituál",
+      "Promyšlená kombinace složek",
+      "Měsíční balení",
+      "Navrženo pro zralý věk"
     ],
     "colors": [
       "#f4dcc7",
@@ -3251,10 +3249,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Vybraný produkt z feedu",
+      "Reálná skladovost",
+      "Připravené pro banner",
+      "Rychlé nasazení do kreativy"
     ],
     "colors": [
       "#f4dcc7",
@@ -3292,10 +3290,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Mytí bez chemie",
+      "Dvě strany, jeden hadřík",
+      "Šetrný k rukám",
+      "Funguje i se studenou vodou"
     ],
     "colors": [
       "#f4dcc7",
@@ -3332,10 +3330,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Čistota bez šmouh",
+      "Šetrnost k povrchům",
+      "Bezvlasý výplet",
+      "Kompaktní rozměr"
     ],
     "colors": [
       "#f4dcc7",
@@ -3370,10 +3368,9 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Každodenní rutina",
-      "Svěží dojem",
-      "Pečující formule",
-      "Silný e-shop vizuál"
+      "Obsah balíčku Revitalizační sprchový gel",
+      "Revitalizační šampon Oliva a Marakuja (kód",
+      "DÁREK"
     ],
     "colors": [
       "#f4dcc7",
@@ -3408,10 +3405,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Hydratační fokus",
-      "Svěží vzhled",
-      "Lehká péče",
-      "Rychlá beauty rutina"
+      "Obsah balíčku Šampon pro hloubkové čištění",
+      "Kondicionér na vlasy Efekt bio-laminace (kód",
+      "DÁREK",
+      "Upozornění"
     ],
     "colors": [
       "#f4dcc7",
@@ -3446,10 +3443,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Důkladnější čištění",
+      "Příjemná masáž obličeje",
+      "Šetrnost k pokožce",
+      "Snadná údržba"
     ],
     "colors": [
       "#f4dcc7",
@@ -3486,10 +3483,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Důkladné čištění",
+      "Příjemná masáž",
+      "Šetrnost k pleti",
+      "Snadná údržba"
     ],
     "colors": [
       "#f4dcc7",
@@ -3526,10 +3523,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Hydratační fokus",
-      "Svěží vzhled",
-      "Lehká péče",
-      "Rychlá beauty rutina"
+      "Dlouhodobý pocit hydratace",
+      "Hladší a sjednocenější vzhled",
+      "Lehká textura",
+      "Zpevnění hydrolipidové bariéry"
     ],
     "colors": [
       "#d8eef7",
@@ -3567,10 +3564,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Liftující dojem",
-      "Anti-age rutina",
-      "Prémiová péče",
-      "Výrazný hero produkt"
+      "Víceúrovňová hydratace",
+      "Lehká textura bez mastnoty",
+      "Univerzální použití",
+      "Pocit pevnější pokožky"
     ],
     "colors": [
       "#d8eef7",
@@ -3605,10 +3602,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Vybraný produkt z feedu",
+      "Reálná skladovost",
+      "Připravené pro banner",
+      "Rychlé nasazení do kreativy"
     ],
     "colors": [
       "#f4dcc7",
@@ -3641,10 +3638,9 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Každodenní rutina",
-      "Svěží dojem",
-      "Pečující formule",
-      "Silný e-shop vizuál"
+      "Obsah balíčku Hydratační sprchový gel Vodní",
+      "Hydratační šampon Vodní meloun a Hrozny (kód",
+      "DÁREK"
     ],
     "colors": [
       "#f4dcc7",
@@ -3758,10 +3754,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Intenzivní pocit hydratace",
+      "Zklidňující komfort",
+      "Příjemná krémová textura",
+      "Pleť působí pružněji"
     ],
     "colors": [
       "#f4dcc7",
@@ -3799,10 +3795,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Hydratační fokus",
-      "Svěží vzhled",
-      "Lehká péče",
-      "Rychlá beauty rutina"
+      "Intenzivní pocit hydratace",
+      "Zklidňující péče",
+      "Rozjasnění a svěžest",
+      "Lehká textura"
     ],
     "colors": [
       "#f4dcc7",
@@ -3840,10 +3836,9 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Rychlá péče",
+      "Hydratační komfort",
+      "Snadné použití"
     ],
     "colors": [
       "#f4dcc7",
@@ -3879,9 +3874,9 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
+      "Pocit hydratace už při mytí",
+      "Šetrné složení",
+      "Osvěžující ovocná vůně",
       "Univerzální použití"
     ],
     "colors": [
@@ -3961,10 +3956,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Intenzivní hydratace",
+      "Příjemný chladivý pocit",
+      "Sjednocený vzhled pleti",
+      "Zpevněný a pružný dojem"
     ],
     "colors": [
       "#f4dcc7",
@@ -4002,10 +3997,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Hydratační fokus",
-      "Svěží vzhled",
-      "Lehká péče",
-      "Rychlá beauty rutina"
+      "Intenzivní hydratace",
+      "Podpora kožní bariéry",
+      "Příjemné chlazení",
+      "Multifunkční použití"
     ],
     "colors": [
       "#f4dcc7",
@@ -4042,10 +4037,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Ověřená účinnost i na odolné nečistoty –",
+      "Obsah balíčku Kapsle na hygienické praní",
+      "PROFI utěrka na komplexní čištění tianDe",
+      "DÁREK"
     ],
     "colors": [
       "#f4dcc7",
@@ -4080,10 +4075,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Relaxační rituál",
-      "Voňavý zážitek",
-      "Domácí wellness",
-      "Dárkový potenciál"
+      "Hydratace a komfort v oblasti úst a nosu",
+      "Okamžitý osvěžující pocit",
+      "Přírodní složení bez alkoholu",
+      "Komplexní péče v jednom balení"
     ],
     "colors": [
       "#e8d8ed",
@@ -4119,10 +4114,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Okamžitý pocit svěžesti",
+      "Přírodní složení",
+      "Komfort pro citlivé dásně",
+      "Praktické balení do kabelky"
     ],
     "colors": [
       "#f4dcc7",
@@ -4155,10 +4150,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Obsah balíčku Kosmetická fytonáplast Wutong",
+      "DÁREK",
+      "Návod k použití Jak a kdy náplasti používat",
+      "Krok 1 – Záda a ramena (náplast Wutong)"
     ],
     "colors": [
       "#f4dcc7",
@@ -4193,10 +4188,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Vybraný produkt z feedu",
+      "Reálná skladovost",
+      "Připravené pro banner",
+      "Rychlé nasazení do kreativy"
     ],
     "colors": [
       "#f4dcc7",
@@ -4229,10 +4224,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Vybraný produkt z feedu",
+      "Reálná skladovost",
+      "Připravené pro banner",
+      "Rychlé nasazení do kreativy"
     ],
     "colors": [
       "#f4dcc7",
@@ -4267,10 +4262,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Liftující dojem",
-      "Anti-age rutina",
-      "Prémiová péče",
-      "Výrazný hero produkt"
+      "Obsah balíčku Čisticí zlatá slupovací",
+      "Revitalizační noční pleťová krémová maska",
+      "Intenzivní hydratační maska na obličej a krk",
+      "Intenzivní omlazující maska na obličej a krk"
     ],
     "colors": [
       "#f4dcc7",
@@ -4305,10 +4300,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Hydratační fokus",
-      "Svěží vzhled",
-      "Lehká péče",
-      "Rychlá beauty rutina"
+      "Intenzivní pocit hydratace",
+      "Péče o obličej i krk",
+      "Zklidňující komfort",
+      "Šetrné složení"
     ],
     "colors": [
       "#d8eef7",
@@ -4345,10 +4340,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Vybraný produkt z feedu",
+      "Reálná skladovost",
+      "Připravené pro banner",
+      "Rychlé nasazení do kreativy"
     ],
     "colors": [
       "#f4dcc7",
@@ -4383,10 +4378,9 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Liftující dojem",
-      "Anti-age rutina",
-      "Prémiová péče",
-      "Výrazný hero produkt"
+      "Návod k použití Ranní rituál",
+      "Večerní rituál",
+      "Intenzivní péče 1-2x týdně"
     ],
     "colors": [
       "#f1ddd0",
@@ -4503,10 +4497,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Každodenní rutina",
-      "Svěží dojem",
-      "Pečující formule",
-      "Silný e-shop vizuál"
+      "Dárek navíc",
+      "Obsah balíčku Šampon na vlasy „Snake Factor\"",
+      "Posilující maska na vlasy Hadí olej (kód",
+      "DÁREK"
     ],
     "colors": [
       "#f4dcc7",
@@ -4541,10 +4535,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Hydratační fokus",
-      "Svěží vzhled",
-      "Lehká péče",
-      "Rychlá beauty rutina"
+      "Pocit zpevnění a pružnosti",
+      "Intenzivní hydratace",
+      "Hladký a jemný vzhled",
+      "Péče o obličej i krk"
     ],
     "colors": [
       "#f4d7c8",
@@ -4581,10 +4575,9 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Pocit příjemné sytosti",
+      "Snadné zařazení do dne",
+      "Kombinace dvou typů vlákniny"
     ],
     "colors": [
       "#f4dcc7",
@@ -4620,10 +4613,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Vybraný produkt z feedu",
+      "Reálná skladovost",
+      "Připravené pro banner",
+      "Rychlé nasazení do kreativy"
     ],
     "colors": [
       "#f4dcc7",
@@ -4658,10 +4651,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Relaxační rituál",
-      "Voňavý zážitek",
-      "Domácí wellness",
-      "Dárkový potenciál"
+      "Šetrný peeling celého těla",
+      "Příjemný masážní pocit",
+      "Bohatá pěna z minima přípravku",
+      "Žínka i ručník v jednom"
     ],
     "colors": [
       "#f4dcc7",
@@ -4696,10 +4689,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Obsah balíčku Funkční komplex Citrokalcevit",
+      "Jemný intimní gel (kód",
+      "Krystalový tělový deodorant Natural Veil",
+      "DÁREK"
     ],
     "colors": [
       "#f4dcc7",
@@ -4734,10 +4727,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Dlouhotrvající svěžest",
+      "Respektuje přirozené pH",
+      "Jemnost bez vysušení",
+      "Vhodný pro citlivé období"
     ],
     "colors": [
       "#f4dcc7",
@@ -4774,10 +4767,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Relaxační rituál",
-      "Voňavý zážitek",
-      "Domácí wellness",
-      "Dárkový potenciál"
+      "Šetrná hygiena",
+      "Pocit zklidnění",
+      "Dlouhotrvající svěžest",
+      "Bez sulfátů a parabenů"
     ],
     "colors": [
       "#f4dcc7",
@@ -4812,10 +4805,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Přírodní základ",
+      "Šetrnost k pokožce",
+      "Prebiotická péče",
+      "Žádné stopy na oblečení"
     ],
     "colors": [
       "#f4dcc7",
@@ -4851,10 +4844,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Přírodní složení",
+      "Komfort pro pokožku",
+      "Celodenní svěžest",
+      "Péče o mikrobiom"
     ],
     "colors": [
       "#f4dcc7",
@@ -4890,10 +4883,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Celodenní pocit svěžesti",
+      "Šetrnost k pokožce",
+      "Péče o kožní mikrobiom",
+      "Žádné stopy na oblečení"
     ],
     "colors": [
       "#f4dcc7",
@@ -4929,9 +4922,9 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
+      "Koncentrovaný účinek",
+      "Svěžest na dlouhou dobu",
+      "Měkkost tkanin",
       "Univerzální použití"
     ],
     "colors": [
@@ -4969,10 +4962,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Vybraný produkt z feedu",
+      "Reálná skladovost",
+      "Připravené pro banner",
+      "Rychlé nasazení do kreativy"
     ],
     "colors": [
       "#f4dcc7",
@@ -5005,10 +4998,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Obsah balíčku Hygienický ústní sprej Jedlový",
+      "Zázvorový nápoj (kód",
+      "DÁREK",
+      "Upozornění"
     ],
     "colors": [
       "#f4dcc7",
@@ -5043,10 +5036,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Obsah balíčku Zubní pasta ProDental (kód",
+      "Hygienický ústní sprej Jedlový esenciální",
+      "Funkční komplex Citrokalcevit (kód",
+      "Zubní pasta Přírodní mořské perly (kód"
     ],
     "colors": [
       "#f4dcc7",
@@ -5081,10 +5074,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Obsah balíčku Jemný intimní gel (kód",
+      "DÁREK",
+      "Návod k použití Jemný intimní gel –",
+      "Extrakt z jedlového jehličí – denní podpora"
     ],
     "colors": [
       "#f4dcc7",
@@ -5119,10 +5112,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Vybraný produkt z feedu",
+      "Reálná skladovost",
+      "Připravené pro banner",
+      "Rychlé nasazení do kreativy"
     ],
     "colors": [
       "#f4dcc7",
@@ -5157,10 +5150,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Vybraný produkt z feedu",
+      "Reálná skladovost",
+      "Připravené pro banner",
+      "Rychlé nasazení do kreativy"
     ],
     "colors": [
       "#f4dcc7",
@@ -5195,10 +5188,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Vybraný produkt z feedu",
+      "Reálná skladovost",
+      "Připravené pro banner",
+      "Rychlé nasazení do kreativy"
     ],
     "colors": [
       "#f4dcc7",
@@ -5310,10 +5303,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Liftující dojem",
-      "Anti-age rutina",
-      "Prémiová péče",
-      "Výrazný hero produkt"
+      "Obsah balíčku Hydratační báze pod make-up",
+      "Tající kolagenová liftingová pleťová maska s",
+      "DÁREK",
+      "Upozornění"
     ],
     "colors": [
       "#f1ddd0",
@@ -5348,10 +5341,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Liftující dojem",
-      "Anti-age rutina",
-      "Prémiová péče",
-      "Výrazný hero produkt"
+      "Pocit hebkosti a hladkosti",
+      "Intenzivní hydratace",
+      "Zpevněný a svěží vzhled",
+      "Rychlé vstřebávání"
     ],
     "colors": [
       "#f1ddd0",
@@ -5388,10 +5381,9 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Liftující dojem",
-      "Anti-age rutina",
-      "Prémiová péče",
-      "Výrazný hero produkt"
+      "Návod k použití Večerní rituál (3-4x týdně)",
+      "Ranní rituál (denně)",
+      "Důležité upozornění"
     ],
     "colors": [
       "#f1ddd0",
@@ -5426,10 +5418,9 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Relaxační rituál",
-      "Voňavý zážitek",
-      "Domácí wellness",
-      "Dárkový potenciál"
+      "Návod k použití Týdenní režim péče o vlasy",
+      "Fáze 2",
+      "Důležitá upozornění"
     ],
     "colors": [
       "#f4dcc7",
@@ -5464,10 +5455,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Hydratační fokus",
-      "Svěží vzhled",
-      "Lehká péče",
-      "Rychlá beauty rutina"
+      "Obsah balíčku Šampon a sprchový gel pro muže",
+      "Kamencový deodorant s prebiotiky Men's",
+      "Regenerační balzám po holení (kód",
+      "DÁREK"
     ],
     "colors": [
       "#f4dcc7",
@@ -5502,10 +5493,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Relaxační rituál",
-      "Voňavý zážitek",
-      "Domácí wellness",
-      "Dárkový potenciál"
+      "Návod k použití Večerní rituál (2-3x týdně)",
+      "Okamžitě po koupeli",
+      "Závěrečná péče",
+      "Mezi koupelemi"
     ],
     "colors": [
       "#f4dcc7",
@@ -5538,10 +5529,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Liftující dojem",
-      "Anti-age rutina",
-      "Prémiová péče",
-      "Výrazný hero produkt"
+      "Obsah balíčku Kosmetická fytonáplast Wutong",
+      "Regenerační balzám po holení (kód",
+      "Tělová sůl „Krystaly z Mrtvého moře\" (kód",
+      "Spa rukavice (kód"
     ],
     "colors": [
       "#f4dcc7",
@@ -5574,10 +5565,9 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Relaxační rituál",
-      "Voňavý zážitek",
-      "Domácí wellness",
-      "Dárkový potenciál"
+      "Fáze",
+      "Fáze",
+      "Doporučený cyklus používání"
     ],
     "colors": [
       "#f4dcc7",
@@ -5612,10 +5602,9 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Relaxační rituál",
-      "Voňavý zážitek",
-      "Domácí wellness",
-      "Dárkový potenciál"
+      "Návod k použití Krok 1",
+      "Krok 2",
+      "Krok 3"
     ],
     "colors": [
       "#f4dcc7",
@@ -5650,10 +5639,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Vybraný produkt z feedu",
+      "Reálná skladovost",
+      "Připravené pro banner",
+      "Rychlé nasazení do kreativy"
     ],
     "colors": [
       "#f4dcc7",
@@ -5688,10 +5677,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Relaxační rituál",
-      "Voňavý zážitek",
-      "Domácí wellness",
-      "Dárkový potenciál"
+      "Obsah balíčku Tělové mýdlo s ženšenem (kód",
+      "Peeling Citronový (kód",
+      "Tělová sůl „Grapefruit\" (kód",
+      "Hydratační spa rukavice s argininem a"
     ],
     "colors": [
       "#f4dcc7",
@@ -5726,10 +5715,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Návod k použití Krok 1",
+      "Krok 2",
+      "Krok 3",
+      "Důležité upozornění"
     ],
     "colors": [
       "#f4dcc7",
@@ -5765,10 +5754,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Relaxační rituál",
-      "Voňavý zážitek",
-      "Domácí wellness",
-      "Dárkový potenciál"
+      "DÁREK",
+      "Návod k použití Ranní rituál",
+      "Během dne",
+      "Večerní rituál"
     ],
     "colors": [
       "#f4dcc7",
@@ -5803,10 +5792,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Liftující dojem",
-      "Anti-age rutina",
-      "Prémiová péče",
-      "Výrazný hero produkt"
+      "Obsah balíčku Péče o tělo – peeling a",
+      "Tělová sůl „Zelený čaj\" (kód",
+      "Spa rukavice (kód",
+      "Zpevnění a modelování kontur Modelující gel"
     ],
     "colors": [
       "#f4dcc7",
@@ -5839,10 +5828,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Vybraný produkt z feedu",
+      "Reálná skladovost",
+      "Připravené pro banner",
+      "Rychlé nasazení do kreativy"
     ],
     "colors": [
       "#f4dcc7",
@@ -5880,10 +5869,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Každodenní rutina",
-      "Svěží dojem",
-      "Pečující formule",
-      "Silný e-shop vizuál"
+      "Efekt bio-laminace",
+      "Lesk a hladkost",
+      "Snadné rozčesávání",
+      "Pocit hydratace"
     ],
     "colors": [
       "#f4dcc7",
@@ -5921,10 +5910,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Liftující dojem",
-      "Anti-age rutina",
-      "Prémiová péče",
-      "Výrazný hero produkt"
+      "Pocit vypnuté pleti",
+      "Intenzivní hydratace",
+      "Dokonalé přilnutí",
+      "Jednoduchý rituál"
     ],
     "colors": [
       "#f4dcc7",
@@ -5961,10 +5950,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Příjemný hřejivý pocit",
+      "Dlouhotrvající komfort",
+      "Postupné prohlubování účinku",
+      "Snadná aplikace"
     ],
     "colors": [
       "#f4dcc7",
@@ -6000,10 +5989,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Příjemný hřejivý pocit",
+      "Dlouhotrvající komfort",
+      "Postupné prohlubování účinku",
+      "Snadná aplikace"
     ],
     "colors": [
       "#f4dcc7",
@@ -6039,10 +6028,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Příjemný hřejivý pocit",
+      "Dlouhotrvající komfort",
+      "Postupné prohlubování účinku",
+      "Snadná aplikace"
     ],
     "colors": [
       "#f4dcc7",
@@ -6078,10 +6067,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Hřejivý komfort až 12 hodin",
+      "19 bylinných výtažků",
+      "Šetrnost k trávicímu systému",
+      "Praktické použití"
     ],
     "colors": [
       "#f4dcc7",
@@ -6117,10 +6106,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Hřejivý komfort až 12 hodin",
+      "19 bylinných výtažků",
+      "Šetrnost k trávicímu systému",
+      "Praktické použití"
     ],
     "colors": [
       "#f4dcc7",
@@ -6156,10 +6145,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Vybraný produkt z feedu",
+      "Reálná skladovost",
+      "Připravené pro banner",
+      "Rychlé nasazení do kreativy"
     ],
     "colors": [
       "#f4dcc7",
@@ -6192,10 +6181,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Příjemný hřejivý pocit",
+      "Zesílená receptura",
+      "Cílená aplikace na bedra",
+      "Noční působení 8–12 hodin"
     ],
     "colors": [
       "#f4dcc7",
@@ -6230,10 +6219,9 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Péče o tělo",
+      "Zdraví",
+      "S arizéma"
     ],
     "colors": [
       "#f4dcc7",
@@ -6269,10 +6257,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Vybraný produkt z feedu",
+      "Reálná skladovost",
+      "Připravené pro banner",
+      "Rychlé nasazení do kreativy"
     ],
     "colors": [
       "#f4dcc7",
@@ -6305,10 +6293,8 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Relaxační rituál",
-      "Voňavý zážitek",
-      "Domácí wellness",
-      "Dárkový potenciál"
+      "Čistý pocit po celý den",
+      "Praktická každodenní péče"
     ],
     "colors": [
       "#f4dcc7",
@@ -6344,10 +6330,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Liftující dojem",
-      "Anti-age rutina",
-      "Prémiová péče",
-      "Výrazný hero produkt"
+      "Systém, ne další dieta",
+      "Sedm lekcí v rytmu pěti týdnů",
+      "Týdenní poradenství přímo s Jiřinou",
+      "Komunita 10 000+ žen"
     ],
     "colors": [
       "#f4dcc7",
@@ -6380,10 +6366,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Každodenní rutina",
-      "Svěží dojem",
-      "Pečující formule",
-      "Silný e-shop vizuál"
+      "Spolehlivé držení vlasů",
+      "Příjemný komfort",
+      "Opakované použití",
+      "Stylový vzhled"
     ],
     "colors": [
       "#f4dcc7",
@@ -6418,10 +6404,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Vybraný produkt z feedu",
+      "Reálná skladovost",
+      "Připravené pro banner",
+      "Rychlé nasazení do kreativy"
     ],
     "colors": [
       "#f4dcc7",
@@ -6454,10 +6440,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Vybraný produkt z feedu",
+      "Reálná skladovost",
+      "Připravené pro banner",
+      "Rychlé nasazení do kreativy"
     ],
     "colors": [
       "#f4dcc7",
@@ -6490,10 +6476,9 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Liftující dojem",
-      "Anti-age rutina",
-      "Prémiová péče",
-      "Výrazný hero produkt"
+      "Obsah balíčku Kolagen s višňovou a",
+      "DÁREK",
+      "Důležité upozornění"
     ],
     "colors": [
       "#f1ddd0",
@@ -6528,10 +6513,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Intenzivní hydratace",
+      "Viditelně jemnější chodidla",
+      "Změkčení otlaků a mozolů",
+      "Rychlé vstřebávání"
     ],
     "colors": [
       "#f4dcc7",
@@ -6567,10 +6552,9 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Péče o tělo",
+      "S allantoin",
+      "Hadí řada"
     ],
     "colors": [
       "#f4dcc7",
@@ -6605,10 +6589,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Vyvážená hydratace",
+      "Podpora čistšího vzhledu",
+      "Komfort pro nedokonalosti",
+      "Lehká textura"
     ],
     "colors": [
       "#f4dcc7",
@@ -6646,10 +6630,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Liftující dojem",
-      "Anti-age rutina",
-      "Prémiová péče",
-      "Výrazný hero produkt"
+      "Hydratace a zvláčnění",
+      "Vypnutý vzhled",
+      "Rozjasnění očního okolí",
+      "Příjemná textura"
     ],
     "colors": [
       "#f4dcc7",
@@ -6686,10 +6670,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Liftující dojem",
-      "Anti-age rutina",
-      "Prémiová péče",
-      "Výrazný hero produkt"
+      "Lehká textura bez zatížení",
+      "Intenzivní hydratace",
+      "Rozjasnění očního okolí",
+      "Pocit zpevnění a hladkosti"
     ],
     "colors": [
       "#f4dcc7",
@@ -6728,10 +6712,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Dlouhotrvající komfort",
+      "Zjemnění zhrublé pokožky",
+      "Rychlé vstřebávání",
+      "Výživa a péče"
     ],
     "colors": [
       "#f4dcc7",
@@ -6766,10 +6750,9 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Péče o tělo",
+      "S aloe",
+      "Ovečková řada"
     ],
     "colors": [
       "#f4dcc7",
@@ -6883,10 +6866,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Liftující dojem",
-      "Anti-age rutina",
-      "Prémiová péče",
-      "Výrazný hero produkt"
+      "Hloubková obnova a anti-age efekt",
+      "Intenzivní hydratace a výživa",
+      "Ochrana a posílení kožní bariéry",
+      "Zklidnění a sjednocení tónu pleti"
     ],
     "colors": [
       "#f4dcc7",
@@ -6919,10 +6902,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Hydratační fokus",
-      "Svěží vzhled",
-      "Lehká péče",
-      "Rychlá beauty rutina"
+      "Noční komfort",
+      "Sjednocený vzhled",
+      "Příjemné vstřebávání",
+      "Šetrné složení"
     ],
     "colors": [
       "#f4dcc7",
@@ -6960,10 +6943,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Hydratační fokus",
-      "Svěží vzhled",
-      "Lehká péče",
-      "Rychlá beauty rutina"
+      "Hluboká hydratace",
+      "Obnova přirozené ochranné vrstvy",
+      "Stimulace regenerace",
+      "Zklidnění a méně viditelné stopy po akné"
     ],
     "colors": [
       "#f4dcc7",
@@ -7113,10 +7096,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Každodenní rutina",
-      "Svěží dojem",
-      "Pečující formule",
-      "Silný e-shop vizuál"
+      "Vyživený a hladký vzhled vlasů",
+      "Snadné rozčesávání",
+      "Pocit posílení u kořínků",
+      "Dlouhodobá péče"
     ],
     "colors": [
       "#f4dcc7",
@@ -7195,7 +7178,7 @@ export const realProductFeed = [
       "Relaxační rituál",
       "Voňavý zážitek",
       "Domácí wellness",
-      "Dárkový potenciál"
+      "Hladší dojem pokožky"
     ],
     "colors": [
       "#f4dcc7",
@@ -7230,10 +7213,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Pocit lehkosti",
+      "Příjemná levandulová vůně",
+      "Jednoduchá aplikace",
+      "Bylinné složení"
     ],
     "colors": [
       "#f4dcc7",
@@ -7269,10 +7252,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Pocit lehkosti",
+      "Příjemná levandulová vůně",
+      "Jednoduchá aplikace",
+      "Bylinné složení"
     ],
     "colors": [
       "#f4dcc7",
@@ -7308,10 +7291,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Vybraný produkt z feedu",
+      "Reálná skladovost",
+      "Připravené pro banner",
+      "Rychlé nasazení do kreativy"
     ],
     "colors": [
       "#f4dcc7",
@@ -7346,10 +7329,9 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Péče o tělo",
+      "Wellness doplňky",
+      "S sklo"
     ],
     "colors": [
       "#f4dcc7",
@@ -7384,10 +7366,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Efekt gelového laku",
+      "Šetrná péče o volný okraj",
+      "Úprava nehtového okolí",
+      "Snadná hygiena"
     ],
     "colors": [
       "#f4dcc7",
@@ -7422,10 +7404,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Liftující dojem",
-      "Anti-age rutina",
-      "Prémiová péče",
-      "Výrazný hero produkt"
+      "Obsah balíčku Obnovující pleťové tonikum",
+      "Sérum pro hloubkovou obnovu pleti Ženšen a",
+      "Krém pro hloubkovou obnovu pleti Ženšen a",
+      "DÁREK"
     ],
     "colors": [
       "#f4dcc7",
@@ -7496,10 +7478,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Liftující dojem",
-      "Anti-age rutina",
-      "Prémiová péče",
-      "Výrazný hero produkt"
+      "Vypnutější vzhled očního okolí",
+      "Hydratace a komfort",
+      "Odpočatý pohled",
+      "Jemná textura"
     ],
     "colors": [
       "#f4dcc7",
@@ -7537,10 +7519,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Hydratační fokus",
-      "Svěží vzhled",
-      "Lehká péče",
-      "Rychlá beauty rutina"
+      "Důkladné dočištění",
+      "Stažení pórů",
+      "Pocit hydratace",
+      "Sjednocený tón pleti"
     ],
     "colors": [
       "#f4dcc7",
@@ -7577,10 +7559,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Relaxační rituál",
-      "Voňavý zážitek",
-      "Domácí wellness",
-      "Dárkový potenciál"
+      "Množství",
+      "Týden)",
+      "Druhá fáze (následující 3-4 týdny)",
+      "Udržovací fáze"
     ],
     "colors": [
       "#f4dcc7",
@@ -7618,7 +7600,7 @@ export const realProductFeed = [
       "Relaxační rituál",
       "Voňavý zážitek",
       "Domácí wellness",
-      "Dárkový potenciál"
+      "Hladší dojem pokožky"
     ],
     "colors": [
       "#f4dcc7",
@@ -7689,10 +7671,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Péče o tělo",
+      "Zdraví",
+      "S olivy",
+      "Altai Sacral"
     ],
     "colors": [
       "#f4dcc7",
@@ -7727,10 +7709,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Příjemný masážní rituál",
+      "Pleť působí svěže a vypnutě",
+      "Podpora vstřebávání kosmetiky",
+      "Šetrný i pro citlivé partie"
     ],
     "colors": [
       "#f4dcc7",
@@ -7765,10 +7747,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Liftující dojem",
-      "Anti-age rutina",
-      "Prémiová péče",
-      "Výrazný hero produkt"
+      "Hladší a pevnější vzhled pleti",
+      "Efektivnější vstřebávání kosmepodporuje",
+      "Salonní pocit doma",
+      "Kvalitní materiál"
     ],
     "colors": [
       "#f4dcc7",
@@ -7803,10 +7785,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Dlouhotrvající pocit hydratace",
+      "Ochranný komfort",
+      "Lehká textura",
+      "Příjemná mléčná vůně"
     ],
     "colors": [
       "#f4dcc7",
@@ -7920,10 +7902,9 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Liftující dojem",
-      "Anti-age rutina",
-      "Prémiová péče",
-      "Výrazný hero produkt"
+      "Obsah balíčku Hyaluronové sérum na pleť (kód",
+      "Tající kolagenová liftingová pleťová maska s",
+      "DÁREK"
     ],
     "colors": [
       "#f4dcc7",
@@ -7958,10 +7939,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Každodenní rutina",
-      "Svěží dojem",
-      "Pečující formule",
-      "Silný e-shop vizuál"
+      "Trojitá síla ženšenu",
+      "Aktivace mikrocirkulace",
+      "Hydratace a lesk",
+      "Ochrana před poškozením"
     ],
     "colors": [
       "#f4dcc7",
@@ -8035,10 +8016,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Hydratační fokus",
-      "Svěží vzhled",
-      "Lehká péče",
-      "Rychlá beauty rutina"
+      "Filozofie tianDe",
+      "Obsah balíčku 🧴 Šampon a sprchový gel pro",
+      "🪒 Regenerační balzám po holení (kód",
+      "Frekvence a délka používání Sprchový gel a"
     ],
     "colors": [
       "#f4dcc7",
@@ -8073,10 +8054,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Šetrný k rukám",
+      "Účinný i ve studené vodě",
+      "Biologicky odbouratelný",
+      "Bez fosfátů, chloru a syntetických parfemací"
     ],
     "colors": [
       "#f4dcc7",
@@ -8119,10 +8100,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Liftující dojem",
-      "Anti-age rutina",
-      "Prémiová péče",
-      "Výrazný hero produkt"
+      "Obsah balíčku Revitalizační pleťová esence",
+      "Regenerační krémová maska na obličej Mořský",
+      "Intenzivní komplex na pokožku kolem očí (kód",
+      "Křišťálová kolagenová maska na oční víčka -"
     ],
     "colors": [
       "#f4dcc7",
@@ -8157,10 +8138,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Pocit volného svěžesti",
+      "Osvěžení a bdělost",
+      "Komfort pokožky",
+      "Jednoduchá aplikace"
     ],
     "colors": [
       "#f4dcc7",
@@ -8197,10 +8178,9 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Péče o pleť",
+      "Wellness doplňky",
+      "S řasy"
     ],
     "colors": [
       "#f4dcc7",
@@ -8237,10 +8217,9 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Péče o pleť",
+      "Wellness doplňky",
+      "S kamélie"
     ],
     "colors": [
       "#f4dcc7",
@@ -8278,10 +8257,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Přírodní bavlněný povrch",
+      "Patentovaná fytomembrána",
+      "Dvojitá ochranná křidélka",
+      "Super-absorpční granulát"
     ],
     "colors": [
       "#f4dcc7",
@@ -8318,10 +8297,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Příjemné teplo",
+      "Pružnost",
+      "Snadné použití",
+      "Praktické balení"
     ],
     "colors": [
       "#f4dcc7",
@@ -8357,10 +8336,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Pocit lehkých nohou",
+      "Jednoduchý večerní rituál",
+      "Bylinné složení",
+      "Podpora pocitu uvolnění"
     ],
     "colors": [
       "#f4dcc7",
@@ -8396,10 +8375,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Pocit lehkých nohou",
+      "Jednoduchý večerní rituál",
+      "Bylinné složení",
+      "Podpora pocitu uvolnění"
     ],
     "colors": [
       "#f4dcc7",
@@ -8435,10 +8414,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Pocit lehkých nohou",
+      "Jednoduchý večerní rituál",
+      "Bylinné složení",
+      "Podpora pocitu uvolnění"
     ],
     "colors": [
       "#f4dcc7",
@@ -8474,10 +8453,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Podpora trávení",
+      "Harmonie jater a střev",
+      "Kontrola tělesné hmotnosti",
+      "Čistě rostlinné složení"
     ],
     "colors": [
       "#f4dcc7",
@@ -8513,10 +8492,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Vybraný produkt z feedu",
+      "Reálná skladovost",
+      "Připravené pro banner",
+      "Rychlé nasazení do kreativy"
     ],
     "colors": [
       "#f4dcc7",
@@ -8552,10 +8531,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Vybraný produkt z feedu",
+      "Reálná skladovost",
+      "Připravené pro banner",
+      "Rychlé nasazení do kreativy"
     ],
     "colors": [
       "#f4dcc7",
@@ -8590,10 +8569,9 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Obsah balíčku Fytoformula s rozchodnicí (kód",
+      "Funkční komplex Citrokalcevit (kód",
+      "DÁREK"
     ],
     "colors": [
       "#f4dcc7",
@@ -8628,10 +8606,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Vybraný produkt z feedu",
+      "Reálná skladovost",
+      "Připravené pro banner",
+      "Rychlé nasazení do kreativy"
     ],
     "colors": [
       "#f4dcc7",
@@ -8704,10 +8682,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Aktivní omlazení již ve fázi tonizace",
+      "Zklidnění a ochrana citlivé pleti",
+      "Hluboká hydratace a obnova kožní bariéry",
+      "Okamžitý i dlouhodobý efekt"
     ],
     "colors": [
       "#f4dcc7",
@@ -8740,9 +8718,9 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
+      "Dvě strany, jeden hadr",
+      "Úklid bez chemie",
+      "Podlaha bez šmouh",
       "Univerzální použití"
     ],
     "colors": [
@@ -8779,10 +8757,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Vybraný produkt z feedu",
+      "Reálná skladovost",
+      "Připravené pro banner",
+      "Rychlé nasazení do kreativy"
     ],
     "colors": [
       "#f4dcc7",
@@ -8815,10 +8793,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Obsah balíčku Levandulová náplast na nohy",
+      "DÁREK",
+      "Návod k použití Večer před spaním",
+      "Náplast nechte působit přes celou noc"
     ],
     "colors": [
       "#f4dcc7",
@@ -8893,10 +8871,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Hydratační fokus",
-      "Svěží vzhled",
-      "Lehká péče",
-      "Rychlá beauty rutina"
+      "Okamžité vstřebání",
+      "Dlouhodobý pocit hydratace",
+      "Hebkost a jemnost",
+      "Ochranný film"
     ],
     "colors": [
       "#f4dcc7",
@@ -8932,10 +8910,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Vybraný produkt z feedu",
+      "Reálná skladovost",
+      "Připravené pro banner",
+      "Rychlé nasazení do kreativy"
     ],
     "colors": [
       "#f4dcc7",
@@ -8970,10 +8948,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Vybraný produkt z feedu",
+      "Reálná skladovost",
+      "Připravené pro banner",
+      "Rychlé nasazení do kreativy"
     ],
     "colors": [
       "#f4dcc7",
@@ -9008,10 +8986,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Vybraný produkt z feedu",
+      "Reálná skladovost",
+      "Připravené pro banner",
+      "Rychlé nasazení do kreativy"
     ],
     "colors": [
       "#f4dcc7",
@@ -9046,10 +9024,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Vybraný produkt z feedu",
+      "Reálná skladovost",
+      "Připravené pro banner",
+      "Rychlé nasazení do kreativy"
     ],
     "colors": [
       "#f4dcc7",
@@ -9084,10 +9062,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Vybraný produkt z feedu",
+      "Reálná skladovost",
+      "Připravené pro banner",
+      "Rychlé nasazení do kreativy"
     ],
     "colors": [
       "#f4dcc7",
@@ -9122,10 +9100,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Vybraný produkt z feedu",
+      "Reálná skladovost",
+      "Připravené pro banner",
+      "Rychlé nasazení do kreativy"
     ],
     "colors": [
       "#f4dcc7",
@@ -9160,10 +9138,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Hydratační fokus",
-      "Svěží vzhled",
-      "Lehká péče",
-      "Rychlá beauty rutina"
+      "Příjemná hydratace",
+      "Hladký a vypnutý vzhled",
+      "Zklidňující komfort",
+      "Lehká textura"
     ],
     "colors": [
       "#f4dcc7",
@@ -9237,10 +9215,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Každodenní rutina",
-      "Svěží dojem",
-      "Pečující formule",
-      "Silný e-shop vizuál"
+      "Návod k použití Krok 1",
+      "Krok 2",
+      "Krok 3",
+      "Optimální frekvence používání"
     ],
     "colors": [
       "#f4dcc7",
@@ -9275,10 +9253,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Jemná exfoliace bez drhnutí",
+      "Rozjasněný vzhled",
+      "Zjemnění pórů",
+      "Hydratační komfort"
     ],
     "colors": [
       "#f4dcc7",
@@ -9315,10 +9293,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Šetrná exfoliace",
+      "Hydratace a výživa",
+      "Rozjasnění tónu pleti",
+      "Antioxidační péče"
     ],
     "colors": [
       "#f4dcc7",
@@ -9355,10 +9333,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Šetrná exfoliace bez podráždění",
+      "Hydratace při exfoliaci",
+      "Sjednocený vzhled pleti",
+      "Příjemná textura"
     ],
     "colors": [
       "#f4dcc7",
@@ -9395,10 +9373,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Šetrné čištění bez podráždění",
+      "Rozjasněný a sjednocený vzhled",
+      "Čistší póry",
+      "Příjemný pocit komfortu"
     ],
     "colors": [
       "#f4dcc7",
@@ -9436,10 +9414,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Jemné čištění bez podráždění",
+      "Pocit svěžesti a hydratace",
+      "Rozjasněný vzhled",
+      "Komfort i pro citlivou pleť"
     ],
     "colors": [
       "#f4dcc7",
@@ -9516,10 +9494,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Hydratační fokus",
-      "Svěží vzhled",
-      "Lehká péče",
-      "Rychlá beauty rutina"
+      "Jemná exfoliace",
+      "Sjednocený tón pleti",
+      "Příjemná hydratace",
+      "Zpevněný vzhled"
     ],
     "colors": [
       "#f4dcc7",
@@ -9558,10 +9536,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Příjemný pocit sytosti",
+      "Komfortní trávení",
+      "Ovocná chuť bez kompromisů",
+      "Rychlá příprava"
     ],
     "colors": [
       "#f4dcc7",
@@ -9596,10 +9574,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Pocit sytosti",
+      "Prebiotické složky",
+      "Přírodní složení",
+      "Snadná příprava"
     ],
     "colors": [
       "#f4dcc7",
@@ -9634,10 +9612,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Dlouhotrvající pocit hydratace",
+      "Vizuálně plnější rty",
+      "Příjemná jahodová vůně",
+      "Praktické balení s aplikátorem a zrcátkem"
     ],
     "colors": [
       "#f4dcc7",
@@ -9673,10 +9651,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Hydratační fokus",
-      "Svěží vzhled",
-      "Lehká péče",
-      "Rychlá beauty rutina"
+      "Zjemnění vzhledu vrásek",
+      "Dlouhodobá hydratace",
+      "Příjemný komfort",
+      "Šetrnost k citlivé pleti"
     ],
     "colors": [
       "#f4dcc7",
@@ -9713,10 +9691,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Hydratační fokus",
-      "Svěží vzhled",
-      "Lehká péče",
-      "Rychlá beauty rutina"
+      "Intenzivní hydratace",
+      "Zjemnění ztvrdlé pokožky",
+      "Pocit komfortu",
+      "Dlouhá výdrž"
     ],
     "colors": [
       "#f4dcc7",
@@ -9833,10 +9811,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Liftující dojem",
-      "Anti-age rutina",
-      "Prémiová péče",
-      "Výrazný hero produkt"
+      "Pocit hydratace",
+      "Zjemnění a komfort",
+      "Svěží vzhled",
+      "Snadná aplikace"
     ],
     "colors": [
       "#f4dcc7",
@@ -9874,10 +9852,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Hydratační fokus",
-      "Svěží vzhled",
-      "Lehká péče",
-      "Rychlá beauty rutina"
+      "Intenzivní hydratace",
+      "Rozjasněný vzhled",
+      "Zpevněný a hladký pocit",
+      "Zklidnění a komfort"
     ],
     "colors": [
       "#f4dcc7",
@@ -9915,10 +9893,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Liftující dojem",
-      "Anti-age rutina",
-      "Prémiová péče",
-      "Výrazný hero produkt"
+      "Intenzivní hydratace",
+      "Hloubková detoxikace",
+      "Zpevnění a ochrana",
+      "Zklidnění a regenerace"
     ],
     "colors": [
       "#f4dcc7",
@@ -9955,10 +9933,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Liftující dojem",
-      "Anti-age rutina",
-      "Prémiová péče",
-      "Výrazný hero produkt"
+      "Intenzivní hydratace",
+      "Pocit pružnosti a vypnutí",
+      "Univerzální použití 2 v 1",
+      "Lehká textura"
     ],
     "colors": [
       "#f1ddd0",
@@ -9997,10 +9975,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Hydratační fokus",
-      "Svěží vzhled",
-      "Lehká péče",
-      "Rychlá beauty rutina"
+      "Rozjasnění a sjednocení tónu",
+      "Zklidnění a komfort",
+      "Intenzivní hydratace",
+      "Péče o póry a čistší vzhled"
     ],
     "colors": [
       "#f4dcc7",
@@ -10033,10 +10011,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Regulace kožního mazu",
+      "Tonizace a svěžest",
+      "Podpora rovnováhy pH",
+      "Zklidňující pocit"
     ],
     "colors": [
       "#f4dcc7",
@@ -10114,10 +10092,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Hydratační fokus",
-      "Svěží vzhled",
-      "Lehká péče",
-      "Rychlá beauty rutina"
+      "Příjemná hydratace",
+      "Příprava na další péči",
+      "Zjemnění a zklidnění",
+      "Sjednocený vzhled"
     ],
     "colors": [
       "#f4dcc7",
@@ -10156,10 +10134,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Hydratační fokus",
+      "Příjemný pocit vypnutí",
+      "Komfortní hydratace",
       "Svěží vzhled",
-      "Lehká péče",
-      "Rychlá beauty rutina"
+      "Lehká textura"
     ],
     "colors": [
       "#f4dcc7",
@@ -10197,10 +10175,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Hydratační fokus",
-      "Svěží vzhled",
-      "Lehká péče",
-      "Rychlá beauty rutina"
+      "Důkladné dočištění",
+      "Pocit hydratace",
+      "Obnova pH rovnováhy",
+      "Příjemná textura"
     ],
     "colors": [
       "#f4dcc7",
@@ -10280,10 +10258,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Komplexní přírodní intimní péče – balíček",
+      "Obsah balíčku Jemný intimní gel (kód",
+      "Denní hygienická vložka „Jemná péče\" (kód",
+      "Denní vložka Energie života (kód"
     ],
     "colors": [
       "#f4dcc7",
@@ -10318,10 +10296,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Vybraný produkt z feedu",
+      "Reálná skladovost",
+      "Připravené pro banner",
+      "Rychlé nasazení do kreativy"
     ],
     "colors": [
       "#f4dcc7",
@@ -10356,10 +10334,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Vybraný produkt z feedu",
+      "Reálná skladovost",
+      "Připravené pro banner",
+      "Rychlé nasazení do kreativy"
     ],
     "colors": [
       "#f4dcc7",
@@ -10394,10 +10372,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Liftující dojem",
-      "Anti-age rutina",
-      "Prémiová péče",
-      "Výrazný hero produkt"
+      "Pocit pevnější pleti",
+      "Intenzivní hydratace",
+      "Hladší vzhled pokožky",
+      "Příjemná textura"
     ],
     "colors": [
       "#f1ddd0",
@@ -10434,10 +10412,9 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Liftující dojem",
-      "Anti-age rutina",
-      "Prémiová péče",
-      "Výrazný hero produkt"
+      "Obsah balíčku Hyaluronový gel-lotion na",
+      "Tající kolagenová liftingová pleťová maska s",
+      "DÁREK"
     ],
     "colors": [
       "#f4dcc7",
@@ -10472,10 +10449,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Komplexní přírodní péče o zdraví – balíček",
+      "Obsah balíčku Hygienický ústní sprej Jedlový",
+      "Zázvorový nápoj (kód",
+      "DÁREK"
     ],
     "colors": [
       "#f4dcc7",
@@ -10510,10 +10487,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Každodenní rutina",
-      "Svěží dojem",
-      "Pečující formule",
-      "Silný e-shop vizuál"
+      "Hloubková výživa",
+      "Hebkost a pružnost",
+      "Obnova ochranné vrstvy",
+      "Přirozený lesk"
     ],
     "colors": [
       "#f4dcc7",
@@ -10550,10 +10527,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Zjemnění a zvláčnění",
+      "Svěžest a komfort",
+      "Zmírnění zápachu",
+      "Rychlé vstřebávání"
     ],
     "colors": [
       "#f4dcc7",
@@ -10588,10 +10565,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Zjemnění a zvláčnění",
+      "Svěžest a komfort",
+      "Zmírnění zápachu",
+      "Rychlé vstřebávání"
     ],
     "colors": [
       "#f4dcc7",
@@ -10626,10 +10603,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Zjemnění a zvláčnění",
+      "Svěžest a komfort",
+      "Zmírnění zápachu",
+      "Rychlé vstřebávání"
     ],
     "colors": [
       "#f4dcc7",
@@ -10664,10 +10641,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Hydratační fokus",
-      "Svěží vzhled",
-      "Lehká péče",
-      "Rychlá beauty rutina"
+      "Obsah balíčku Revitalizační pleťová esence",
+      "Revitalizační noční pleťová krémová maska",
+      "DÁREK",
+      "Upozornění"
     ],
     "colors": [
       "#f4dcc7",
@@ -10741,7 +10718,7 @@ export const realProductFeed = [
       "Relaxační rituál",
       "Voňavý zážitek",
       "Domácí wellness",
-      "Dárkový potenciál"
+      "Hladší dojem pokožky"
     ],
     "colors": [
       "#f4dcc7",
@@ -10776,10 +10753,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Univerzální použití",
+      "Čistota jen s vodou",
+      "Bez šmouh a bez námahy",
+      "Dvě strany, dva způsoby"
     ],
     "colors": [
       "#f4dcc7",
@@ -10816,10 +10793,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Vybraný produkt z feedu",
+      "Reálná skladovost",
+      "Připravené pro banner",
+      "Rychlé nasazení do kreativy"
     ],
     "colors": [
       "#f4dcc7",
@@ -10854,10 +10831,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Vybraný produkt z feedu",
+      "Reálná skladovost",
+      "Připravené pro banner",
+      "Rychlé nasazení do kreativy"
     ],
     "colors": [
       "#f4dcc7",
@@ -10930,10 +10907,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Liftující dojem",
-      "Anti-age rutina",
-      "Prémiová péče",
-      "Výrazný hero produkt"
+      "Obsah balíčku Polypeptidový pleťový krém s",
+      "Peptidový krém na oční víčka na vrásky (kód",
+      "Kolagenová pleťová esence na vrásky (kód",
+      "DÁREK"
     ],
     "colors": [
       "#f4dcc7",
@@ -10968,10 +10945,9 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Pohodlný střih",
+      "Bavlněný materiál",
+      "Jednoduchá údržba"
     ],
     "colors": [
       "#f4dcc7",
@@ -11006,10 +10982,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Péče o tělo",
+      "Zdraví",
+      "S turmalín",
+      "Turmalín"
     ],
     "colors": [
       "#f4dcc7",
@@ -11046,10 +11022,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Vybraný produkt z feedu",
+      "Reálná skladovost",
+      "Připravené pro banner",
+      "Rychlé nasazení do kreativy"
     ],
     "colors": [
       "#f4dcc7",
@@ -11082,10 +11058,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Vybraný produkt z feedu",
+      "Reálná skladovost",
+      "Připravené pro banner",
+      "Rychlé nasazení do kreativy"
     ],
     "colors": [
       "#f4dcc7",
@@ -11118,10 +11094,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Obsah balíčku Hygienický ústní sprej Jedlový",
+      "Zázvorový nápoj (kód",
+      "DÁREK",
+      "Délka používání a opakování Zázvorový nápoj"
     ],
     "colors": [
       "#f4dcc7",
@@ -11156,10 +11132,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Jemná exfoliace",
+      "100% přírodní složení",
+      "Vhodná pro všechny typy pleti",
+      "Ekologická volba"
     ],
     "colors": [
       "#f4dcc7",
@@ -11196,10 +11172,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Relaxační rituál",
-      "Voňavý zážitek",
-      "Domácí wellness",
-      "Dárkový potenciál"
+      "Přírodní složení bez zbytečné chemie –",
+      "Obsah balíčku Hygienický ústní sprej Jedlový",
+      "Zázvorový nápoj (kód",
+      "DÁREK"
     ],
     "colors": [
       "#f4dcc7",
@@ -11234,10 +11210,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Obsah balíčku Fytoformula s rozchodnicí",
+      "DÁREK",
+      "Návod k použití Fytoformula s rozchodnicí –",
+      "Délka užívání"
     ],
     "colors": [
       "#f4dcc7",
@@ -11272,10 +11248,8 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Relaxační rituál",
-      "Voňavý zážitek",
-      "Domácí wellness",
-      "Dárkový potenciál"
+      "Čistý pocit po celý den",
+      "Praktická každodenní péče"
     ],
     "colors": [
       "#f4dcc7",
@@ -11310,10 +11284,9 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Dárek navíc",
+      "Obsah balíčku Sirupy s ovocnými šťávami a",
+      "DÁREK"
     ],
     "colors": [
       "#f4dcc7",
@@ -11348,10 +11321,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Vybraný produkt z feedu",
+      "Reálná skladovost",
+      "Připravené pro banner",
+      "Rychlé nasazení do kreativy"
     ],
     "colors": [
       "#f4dcc7",
@@ -11386,10 +11359,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Vybraný produkt z feedu",
+      "Reálná skladovost",
+      "Připravené pro banner",
+      "Rychlé nasazení do kreativy"
     ],
     "colors": [
       "#f4dcc7",
@@ -11424,10 +11397,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Každodenní rutina",
-      "Svěží dojem",
-      "Pečující formule",
-      "Silný e-shop vizuál"
+      "Komplexní ochrana před letními vlivy – čtyři",
+      "Po každém mytí",
+      "Styling",
+      "Důležité upozornění"
     ],
     "colors": [
       "#f4dcc7",
@@ -11462,10 +11435,9 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Péče o tělo",
+      "Wellness doplňky",
+      "S laktát sodný"
     ],
     "colors": [
       "#f4dcc7",
@@ -11500,10 +11472,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Zjemnění a vyhlazení",
+      "Intenzivní hydratace a výživa",
+      "Péče o paty a kůžičku",
+      "Pocit svěžesti"
     ],
     "colors": [
       "#f4dcc7",
@@ -11538,10 +11510,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Zjemnění a vyhlazení",
+      "Intenzivní hydratace a výživa",
+      "Péče o paty a kůžičku",
+      "Pocit svěžesti"
     ],
     "colors": [
       "#f4dcc7",
@@ -11576,10 +11548,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Zjemnění a vyhlazení",
+      "Intenzivní hydratace a výživa",
+      "Péče o paty a kůžičku",
+      "Pocit svěžesti"
     ],
     "colors": [
       "#f4dcc7",
@@ -11614,10 +11586,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Intenzivní hydratace",
+      "Zklidňující komfort",
+      "Rychlé vstřebávání",
+      "Péče o nehtovou kůžičku"
     ],
     "colors": [
       "#f4dcc7",
@@ -11692,10 +11664,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Vybraný produkt z feedu",
+      "Reálná skladovost",
+      "Připravené pro banner",
+      "Rychlé nasazení do kreativy"
     ],
     "colors": [
       "#f4dcc7",
@@ -11733,10 +11705,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Hydratační fokus",
-      "Svěží vzhled",
-      "Lehká péče",
-      "Rychlá beauty rutina"
+      "Hluboká hydratace",
+      "Obnova přirozené ochranné vrstvy",
+      "Stimulace regenerace",
+      "Zklidnění a méně viditelné stopy po akné"
     ],
     "colors": [
       "#f4dcc7",
@@ -11807,10 +11779,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Intenzivní hydratace",
+      "Ochrana séra před oxidací",
+      "Lehká textura",
+      "Přesné dávkování"
     ],
     "colors": [
       "#f4dcc7",
@@ -11850,10 +11822,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Vybraný produkt z feedu",
+      "Reálná skladovost",
+      "Připravené pro banner",
+      "Rychlé nasazení do kreativy"
     ],
     "colors": [
       "#f4dcc7",
@@ -11890,10 +11862,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Hydratační fokus",
-      "Svěží vzhled",
-      "Lehká péče",
-      "Rychlá beauty rutina"
+      "Dokončení očisty",
+      "Pocit hydratace",
+      "Šetrné složení",
+      "Příprava na další péči"
     ],
     "colors": [
       "#f4dcc7",
@@ -11971,10 +11943,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Liftující dojem",
-      "Anti-age rutina",
-      "Prémiová péče",
-      "Výrazný hero produkt"
+      "Pocit intenzivní hydratace",
+      "Sjednocený vzhled",
+      "Hebkost a hladkost",
+      "Výživa pro pleť"
     ],
     "colors": [
       "#f4dcc7",
@@ -12011,10 +11983,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Hydratační fokus",
-      "Svěží vzhled",
-      "Lehká péče",
-      "Rychlá beauty rutina"
+      "Péče 2v1",
+      "Komfort přes celou noc",
+      "Zklidňující pocit",
+      "Podpora přirozeného mikrobiomu"
     ],
     "colors": [
       "#f4dcc7",
@@ -12052,10 +12024,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Hydratační fokus",
-      "Svěží vzhled",
-      "Lehká péče",
-      "Rychlá beauty rutina"
+      "Okamžitý pocit svěžesti",
+      "Podpora rovnováhy prostředí pokožky",
+      "Intenzivní hydratace",
+      "Zklidnění a komfort"
     ],
     "colors": [
       "#f4dcc7",
@@ -12093,10 +12065,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Vybraný produkt z feedu",
+      "Reálná skladovost",
+      "Připravené pro banner",
+      "Rychlé nasazení do kreativy"
     ],
     "colors": [
       "#f4dcc7",
@@ -12132,10 +12104,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Každodenní rutina",
-      "Svěží dojem",
-      "Pečující formule",
-      "Silný e-shop vizuál"
+      "Pocit hydratace a hebkosti",
+      "Svěží vzhled a lesk",
+      "Šetrné čištění",
+      "Příjemná exotická vůně"
     ],
     "colors": [
       "#f4dcc7",
@@ -12209,10 +12181,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Relaxační rituál",
-      "Voňavý zážitek",
-      "Domácí wellness",
-      "Dárkový potenciál"
+      "Návod k použití Krok 1",
+      "Krok 2",
+      "Krok 3",
+      "Krok 4"
     ],
     "colors": [
       "#f4dcc7",
@@ -12245,10 +12217,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Vybraný produkt z feedu",
+      "Reálná skladovost",
+      "Připravené pro banner",
+      "Rychlé nasazení do kreativy"
     ],
     "colors": [
       "#f4dcc7",
@@ -12281,10 +12253,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Obsah balíčku Fytoformula s rozchodnicí (kód",
+      "Fytokoncentrát s hruštičkou okrouhlolistou a",
+      "DÁREK",
+      "⚠️ Upozornění"
     ],
     "colors": [
       "#f4dcc7",
@@ -12319,10 +12291,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Rozjasnění i hydratace v jednom balíčku –",
+      "DÁREK",
+      "Návod k použití Jak produkty kombinovat a",
+      "Doporučený týdenní rytmus"
     ],
     "colors": [
       "#f4dcc7",
@@ -12357,10 +12329,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Vybraný produkt z feedu",
+      "Reálná skladovost",
+      "Připravené pro banner",
+      "Rychlé nasazení do kreativy"
     ],
     "colors": [
       "#f4dcc7",
@@ -12395,10 +12367,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Vybraný produkt z feedu",
+      "Reálná skladovost",
+      "Připravené pro banner",
+      "Rychlé nasazení do kreativy"
     ],
     "colors": [
       "#f4dcc7",
@@ -12431,10 +12403,9 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Návod k použití Ranní rutina",
+      "Večerní rutina",
+      "1-2x týdně"
     ],
     "colors": [
       "#f4dcc7",
@@ -12470,7 +12441,7 @@ export const realProductFeed = [
       "Relaxační rituál",
       "Voňavý zážitek",
       "Domácí wellness",
-      "Dárkový potenciál"
+      "Hladší dojem pokožky"
     ],
     "colors": [
       "#f4dcc7",
@@ -12503,10 +12474,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Každodenní rutina",
-      "Svěží dojem",
-      "Pečující formule",
-      "Silný e-shop vizuál"
+      "Pocit posílených vlasů",
+      "Hebkost a pružnost",
+      "Svěží pokožka hlavy",
+      "Přirozený lesk"
     ],
     "colors": [
       "#f4dcc7",
@@ -12544,10 +12515,9 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Péče o pleť",
+      "Dekorativní kosmetika",
+      "S slída"
     ],
     "colors": [
       "#f4dcc7",
@@ -12583,10 +12553,9 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Péče o pleť",
+      "Dekorativní kosmetika",
+      "S slída"
     ],
     "colors": [
       "#f4dcc7",
@@ -12622,10 +12591,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Vybraný produkt z feedu",
+      "Reálná skladovost",
+      "Připravené pro banner",
+      "Rychlé nasazení do kreativy"
     ],
     "colors": [
       "#f4dcc7",
@@ -12658,10 +12627,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Vybraný produkt z feedu",
+      "Reálná skladovost",
+      "Připravené pro banner",
+      "Rychlé nasazení do kreativy"
     ],
     "colors": [
       "#f4dcc7",
@@ -12697,10 +12666,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Pocit svěžesti až 12 hodin",
+      "Super tenký design",
+      "Prodyšný materiál",
+      "Koloidní stříbro ve speciální vrstvě"
     ],
     "colors": [
       "#f4dcc7",
@@ -12736,10 +12705,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Relaxační rituál",
-      "Voňavý zážitek",
-      "Domácí wellness",
-      "Dárkový potenciál"
+      "Změkčení zhrublé pokožky",
+      "Pocit lehkosti a uvolnění",
+      "Příjemná levandulová vůně",
+      "Svěžest a komfort"
     ],
     "colors": [
       "#f4dcc7",
@@ -12774,10 +12743,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Relaxační rituál",
-      "Voňavý zážitek",
-      "Domácí wellness",
-      "Dárkový potenciál"
+      "Pocit úlevy a svěžesti",
+      "Zjemnění pokožky",
+      "Regulace pocení",
+      "Osvěžující vůně"
     ],
     "colors": [
       "#f4dcc7",
@@ -12812,10 +12781,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Účinný peeling",
+      "Masážní efekt",
+      "Lepší vstřebávání péče",
+      "Podpora upraveného vzhledu"
     ],
     "colors": [
       "#f4dcc7",
@@ -12888,10 +12857,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Návod k použití Ranní a večerní péče",
+      "Lokální aplikace během dne",
+      "Pravidelné používání",
+      "Důležitá upozornění"
     ],
     "colors": [
       "#f4dcc7",
@@ -12926,10 +12895,9 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Návod k použití Ranní rutina",
+      "Večerní rutina",
+      "Doporučení"
     ],
     "colors": [
       "#f4dcc7",
@@ -13002,10 +12970,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Návod k použití Ranní rutina",
+      "Během dne",
+      "Večerní použití",
+      "Důležité upozornění"
     ],
     "colors": [
       "#f4dcc7",
@@ -13040,10 +13008,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Relaxační rituál",
-      "Voňavý zážitek",
-      "Domácí wellness",
-      "Dárkový potenciál"
+      "Návod k použití První krok - příprava",
+      "Druhý krok - odstranění ztvrdlé kůže",
+      "Třetí krok - hloubková regenerace",
+      "Pravidelnost"
     ],
     "colors": [
       "#f4dcc7",
@@ -13116,10 +13084,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Vybraný produkt z feedu",
+      "Reálná skladovost",
+      "Připravené pro banner",
+      "Rychlé nasazení do kreativy"
     ],
     "colors": [
       "#f4dcc7",
@@ -13270,10 +13238,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Přírodní bylinný komplex",
+      "Super tenké, přesto savé",
+      "Šetrné materiály",
+      "Prodyšnost a hebkost"
     ],
     "colors": [
       "#f4dcc7",
@@ -13309,10 +13277,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Celodenní pocit svěžesti",
+      "Přírodní složení",
+      "Bylinný komplex Artemisia",
+      "Prodyšnost a hebkost"
     ],
     "colors": [
       "#f4dcc7",
@@ -13348,10 +13316,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Vybraný produkt z feedu",
+      "Reálná skladovost",
+      "Připravené pro banner",
+      "Rychlé nasazení do kreativy"
     ],
     "colors": [
       "#f4dcc7",
@@ -13386,10 +13354,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Liftující dojem",
-      "Anti-age rutina",
-      "Prémiová péče",
-      "Výrazný hero produkt"
+      "Obnova a vitalita pleti",
+      "Hloubková hydratace a vyplnění",
+      "Viditelné vyhlazení a zpevnění",
+      "Ochrana před vnějšími vlivy"
     ],
     "colors": [
       "#f4dcc7",
@@ -13422,10 +13390,9 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Obsah balíčku Pektinový kysel s vlochyní a",
+      "DÁREK",
+      "Jak produkty vzájemně kombinovat Oba"
     ],
     "colors": [
       "#f4dcc7",
@@ -13460,10 +13427,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Účinnost i při nízkých teplotách",
+      "Důkladné výsledky",
+      "Ochrana myčky",
+      "Zářivý lesk bez šmouh"
     ],
     "colors": [
       "#f4dcc7",
@@ -13500,10 +13467,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Přírodní antioxidanty",
+      "Podpora každodenní vitality",
+      "Komfort dolních končetin",
+      "Jednoduchý rituál"
     ],
     "colors": [
       "#f4dcc7",
@@ -13579,10 +13546,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Liftující dojem",
-      "Anti-age rutina",
-      "Prémiová péče",
-      "Výrazný hero produkt"
+      "Obsah balíčku Tající kolagenová liftingová",
+      "DÁREK",
+      "Návod k použití Jak správně používat",
+      "Postup použití – tající kolagenová"
     ],
     "colors": [
       "#f1ddd0",
@@ -13617,10 +13584,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Praktická tekutá forma",
+      "Promyšlená bylinná kombinace",
+      "Příjemná chuť",
+      "Snadné dávkování"
     ],
     "colors": [
       "#f4dcc7",
@@ -13655,10 +13622,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Vybraný produkt z feedu",
+      "Reálná skladovost",
+      "Připravené pro banner",
+      "Rychlé nasazení do kreativy"
     ],
     "colors": [
       "#f4dcc7",
@@ -13729,10 +13696,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Vybraný produkt z feedu",
+      "Reálná skladovost",
+      "Připravené pro banner",
+      "Rychlé nasazení do kreativy"
     ],
     "colors": [
       "#f4dcc7",
@@ -13767,10 +13734,9 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Návod k použití Pro ruční mytí nádobí",
+      "Mytí v myčce",
+      "Důležitá upozornění"
     ],
     "colors": [
       "#f4dcc7",
@@ -13805,10 +13771,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Vybraný produkt z feedu",
+      "Reálná skladovost",
+      "Připravené pro banner",
+      "Rychlé nasazení do kreativy"
     ],
     "colors": [
       "#f4dcc7",
@@ -13843,10 +13809,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Vybraný produkt z feedu",
+      "Reálná skladovost",
+      "Připravené pro banner",
+      "Rychlé nasazení do kreativy"
     ],
     "colors": [
       "#f4dcc7",
@@ -13881,10 +13847,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Vybraný produkt z feedu",
+      "Reálná skladovost",
+      "Připravené pro banner",
+      "Rychlé nasazení do kreativy"
     ],
     "colors": [
       "#f4dcc7",
@@ -13919,10 +13885,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Hydratační fokus",
-      "Svěží vzhled",
-      "Lehká péče",
-      "Rychlá beauty rutina"
+      "Péče a krytí v jednom",
+      "Přirozený vzhled",
+      "Dlouhodobý komfort",
+      "Jednoduchá aplikace"
     ],
     "colors": [
       "#f4dcc7",
@@ -13959,10 +13925,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Hydratační fokus",
-      "Svěží vzhled",
-      "Lehká péče",
-      "Rychlá beauty rutina"
+      "Dvojí funkce",
+      "Přirozený vzhled",
+      "Celodenní hydratace",
+      "Lehká textura"
     ],
     "colors": [
       "#f4dcc7",
@@ -13999,10 +13965,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Relaxační rituál",
-      "Voňavý zážitek",
-      "Domácí wellness",
-      "Dárkový potenciál"
+      "Jemný peeling",
+      "Minerální výživa",
+      "Příjemný masážní rituál",
+      "Upravený vzhled pokožky"
     ],
     "colors": [
       "#e8d8ed",
@@ -14040,7 +14006,7 @@ export const realProductFeed = [
       "Relaxační rituál",
       "Voňavý zážitek",
       "Domácí wellness",
-      "Dárkový potenciál"
+      "Hladší dojem pokožky"
     ],
     "colors": [
       "#e8d8ed",
@@ -14075,10 +14041,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Relaxační rituál",
-      "Voňavý zážitek",
-      "Domácí wellness",
-      "Dárkový potenciál"
+      "Jemný peeling",
+      "Vyživující péče",
+      "Příjemný masážní rituál",
+      "Dva způsoby použití"
     ],
     "colors": [
       "#e8d8ed",
@@ -14113,10 +14079,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Relaxační rituál",
-      "Voňavý zážitek",
-      "Domácí wellness",
-      "Dárkový potenciál"
+      "Jemný peeling",
+      "Příjemná masáž",
+      "Hebkost a komfort",
+      "Relaxační vůně"
     ],
     "colors": [
       "#e8d8ed",
@@ -14151,10 +14117,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Důkladné čištění",
+      "Příjemný pocit svěžesti",
+      "Matný vzhled pleti",
+      "Peelingový efekt"
     ],
     "colors": [
       "#f4dcc7",
@@ -14192,10 +14158,8 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Čistý pocit po celý den",
+      "Praktická každodenní péče"
     ],
     "colors": [
       "#f4dcc7",
@@ -14231,10 +14195,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Péče o tělo",
+      "Zdraví",
+      "S olivy",
+      "Altai Sacral"
     ],
     "colors": [
       "#f4dcc7",
@@ -14271,10 +14235,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Prodyšná bavlna u pokožky",
+      "Ultra tenký profil",
+      "Anatomický tvar s bariérami",
+      "Bez plastů, parfemace a bylinných extraktů"
     ],
     "colors": [
       "#f4dcc7",
@@ -14309,10 +14273,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Prodyšný bavlněný materiál",
+      "Ultra tenký profil",
+      "Bez plastů, bylin a parfému",
+      "Spolehlivá savost"
     ],
     "colors": [
       "#f4dcc7",
@@ -14347,10 +14311,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Čištění bez vysušení",
+      "Podpora čistšího vzhledu pleti",
+      "Optické zjemnění pórů",
+      "Antioxidační péče"
     ],
     "colors": [
       "#f4dcc7",
@@ -14386,10 +14350,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Obsah balíčku CC pleťový krém s blur efektem",
+      "Peptidová maska na rty s arganovým olejem",
+      "DÁREK",
+      "Doporučená frekvence CC krém"
     ],
     "colors": [
       "#f4dcc7",
@@ -14424,10 +14388,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Obsah balíčku Leštící pilník na nehty (kód",
+      "DÁREK",
+      "Návod k použití Ranní rituál",
+      "Večerní rituál"
     ],
     "colors": [
       "#f4dcc7",
@@ -14462,9 +14426,9 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
+      "Dva povrchy v jednom",
+      "Čistota bez chemie",
+      "Bez šmouh na lesklých plochách",
       "Univerzální použití"
     ],
     "colors": [
@@ -14502,10 +14466,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Obsah balíčku Kosmetická fytonáplast Jian",
+      "DÁREK",
+      "Doporučená doba nošení",
+      "Ideální aplikace"
     ],
     "colors": [
       "#f4dcc7",
@@ -14540,10 +14504,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Vybraný produkt z feedu",
+      "Reálná skladovost",
+      "Připravené pro banner",
+      "Rychlé nasazení do kreativy"
     ],
     "colors": [
       "#f4dcc7",
@@ -14578,10 +14542,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Dárek",
+      "Návod k použití Ráno",
+      "Během dne",
+      "Večer"
     ],
     "colors": [
       "#f4dcc7",
@@ -14616,10 +14580,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Každodenní rutina",
-      "Svěží dojem",
-      "Pečující formule",
-      "Silný e-shop vizuál"
+      "Množství",
+      "Návod k použití Krok 1",
+      "Krok 2",
+      "Krok 3"
     ],
     "colors": [
       "#f4dcc7",
@@ -14652,10 +14616,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Rozjasnění a sjednocení",
+      "Pocit hloubkové hydratace",
+      "Zklidňující komfort",
+      "Snadná příprava"
     ],
     "colors": [
       "#f4dcc7",
@@ -14692,10 +14656,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Příjemná lubrikace",
+      "Pocit svěžesti",
+      "Podpora přirozené rovnováhy",
+      "Jemnost pro citlivé partie"
     ],
     "colors": [
       "#f4dcc7",
@@ -14812,10 +14776,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Vybraný produkt z feedu",
+      "Reálná skladovost",
+      "Připravené pro banner",
+      "Rychlé nasazení do kreativy"
     ],
     "colors": [
       "#f4dcc7",
@@ -14851,10 +14815,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Dlouhodobá hydratace",
+      "Výživná péče",
+      "Rychlé vstřebávání",
+      "Zklidňující komfort"
     ],
     "colors": [
       "#f4dcc7",
@@ -14889,10 +14853,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Hydratační fokus",
-      "Svěží vzhled",
-      "Lehká péče",
-      "Rychlá beauty rutina"
+      "Intenzivní výživa",
+      "Pocit pružnosti",
+      "Sjednocený vzhled",
+      "Komfort pro citlivou pleť"
     ],
     "colors": [
       "#f4dcc7",
@@ -14930,10 +14894,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Každodenní rutina",
-      "Svěží dojem",
-      "Pečující formule",
-      "Silný e-shop vizuál"
+      "Výživa a hebkost",
+      "Šetrné mytí",
+      "Pravý kořen ženšenu",
+      "Velkorysé balení"
     ],
     "colors": [
       "#f4dcc7",
@@ -14971,10 +14935,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Hydratační fokus",
-      "Svěží vzhled",
-      "Lehká péče",
-      "Rychlá beauty rutina"
+      "Komplexní péče v jednom kroku",
+      "Hloubková hydratace",
+      "Zklidnění a komfort",
+      "Praktické balení"
     ],
     "colors": [
       "#f4dcc7",
@@ -15012,10 +14976,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Příjemný komfort po celý den",
+      "Lehká textura bez mastného filmu",
+      "Vhodný i pro citlivou pleť",
+      "Víceúčelová péče"
     ],
     "colors": [
       "#f4dcc7",
@@ -15052,10 +15016,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Komplexní péče zevnitř i zvenčí – produkty",
+      "Obsah balíčku Zubní pasta ProDental (kód",
+      "Zubní kartáček Bambusové uhlí (kód",
+      "Zubní pasta EXTRA WHITE PRO (kód"
     ],
     "colors": [
       "#f4dcc7",
@@ -15090,10 +15054,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Zubní pasta ProDental (kód",
+      "Zubní kartáček Bambusové uhlí (kód",
+      "Zubní pasta EXTRA WHITE PRO (kód",
+      "Hygienický ústní sprej Jedlový esenciální"
     ],
     "colors": [
       "#f4dcc7",
@@ -15128,10 +15092,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Péče o pleť",
+      "Dekorativní kosmetika",
+      "S bambucké máslo",
+      "Fucoidan"
     ],
     "colors": [
       "#f4dcc7",
@@ -15166,10 +15130,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Vybraný produkt z feedu",
+      "Reálná skladovost",
+      "Připravené pro banner",
+      "Rychlé nasazení do kreativy"
     ],
     "colors": [
       "#f4dcc7",
@@ -15208,10 +15172,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Obsah balíčku Zlatophyt (kód produktu",
+      "DÁREK Náplast na nohy (kód produktu",
+      "Návod k použití Ranní rutina – Zlatophyt Kdy",
+      "Jak dlouho"
     ],
     "colors": [
       "#f4dcc7",
@@ -15246,10 +15210,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Obsah balíčku Zlatophyt (kód produktu",
+      "DÁREK Levandulová náplast na nohy (kód",
+      "Návod k použití Ranní rutina – Zlatophyt Kdy",
+      "Jak dlouho"
     ],
     "colors": [
       "#f4dcc7",
@@ -15284,10 +15248,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Obsah balíčku Zlatophyt (kód produktu",
+      "DÁREK Kosmetická fytonáplast Wutong (kód",
+      "Návod k použití Zlatophyt – každodenní",
+      "Délka užívání"
     ],
     "colors": [
       "#f4dcc7",
@@ -15322,10 +15286,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Liftující dojem",
-      "Anti-age rutina",
-      "Prémiová péče",
-      "Výrazný hero produkt"
+      "Obsah balíčku Fluid na oční víčka Ocean",
+      "Tající kolagenová liftingová pleťová maska s",
+      "DÁREK",
+      "Produkty vzájemně kombinujte"
     ],
     "colors": [
       "#f4dcc7",
@@ -15439,10 +15403,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Vyplňování mikrotrhlin",
+      "Komfort při citlivosti",
+      "Péče o dásně",
+      "Svěží dech"
     ],
     "colors": [
       "#f4dcc7",
@@ -15478,10 +15442,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Relaxační rituál",
-      "Voňavý zážitek",
-      "Domácí wellness",
-      "Dárkový potenciál"
+      "Šetrné čištění",
+      "Dlouhotrvající svěžest",
+      "Péče o sklovinu",
+      "Komfort pro dásně"
     ],
     "colors": [
       "#e8d8ed",
@@ -15516,10 +15480,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Pocit hladkosti a čistoty",
+      "Komfort při citlivosti",
+      "Svěží dech",
+      "Péče o sklovinu"
     ],
     "colors": [
       "#f4dcc7",
@@ -15554,10 +15518,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Komfort pro citlivé dásně",
+      "Důkladný dosah",
+      "Pocit svěžesti",
+      "Péče o vzhled zubů"
     ],
     "colors": [
       "#f4dcc7",
@@ -15593,10 +15557,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Nastavitelná hlava",
+      "Šetrné štětinky",
+      "Ergonomická rukojeť",
+      "Přístup do těžko dostupných míst"
     ],
     "colors": [
       "#f4dcc7",
@@ -15631,10 +15595,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Nastavitelná hlava",
+      "Šetrné štětinky",
+      "Ergonomická rukojeť",
+      "Přístup do těžko dostupných míst"
     ],
     "colors": [
       "#f4dcc7",
@@ -15669,10 +15633,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Nastavitelná hlava",
+      "Šetrné štětinky",
+      "Ergonomická rukojeť",
+      "Přístup do těžko dostupných míst"
     ],
     "colors": [
       "#f4dcc7",
@@ -15707,10 +15671,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Vybraný produkt z feedu",
+      "Reálná skladovost",
+      "Připravené pro banner",
+      "Rychlé nasazení do kreativy"
     ],
     "colors": [
       "#f4dcc7",
@@ -15748,10 +15712,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Komfortní péče o dásně",
+      "Přírodní složení bez fluoridu",
+      "Dlouhotrvající svěžest",
+      "Šetrnost k citlivým dásním"
     ],
     "colors": [
       "#f4dcc7",
@@ -15790,10 +15754,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Jemná péče o sklovinu",
+      "Technologie White Bond",
+      "Dlouhotrvající svěžest",
+      "Podpora pevnosti skloviny"
     ],
     "colors": [
       "#f4dcc7",
@@ -15830,10 +15794,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Jemné čištění",
+      "Přírodní složení",
+      "Svěží pocit v ústech",
+      "Péče o dásně"
     ],
     "colors": [
       "#f4dcc7",
@@ -15869,10 +15833,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Vybraný produkt z feedu",
+      "Reálná skladovost",
+      "Připravené pro banner",
+      "Rychlé nasazení do kreativy"
     ],
     "colors": [
       "#f4dcc7",
@@ -15905,10 +15869,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Liftující dojem",
-      "Anti-age rutina",
-      "Prémiová péče",
-      "Výrazný hero produkt"
+      "Kompletní péče v jednom balíčku – balíček",
+      "Obsah balíčku Tělová sůl „Grapefruit\" (kód",
+      "Tělová sůl „Zelený čaj\" (kód",
+      "SPA rukavice (kód"
     ],
     "colors": [
       "#f4dcc7",
@@ -15943,10 +15907,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Vybraný produkt z feedu",
+      "Reálná skladovost",
+      "Připravené pro banner",
+      "Rychlé nasazení do kreativy"
     ],
     "colors": [
       "#f4dcc7",
@@ -15982,10 +15946,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Obsah balíčku Mycí prostředek na nádobí na",
+      "Oboustranný hadr na podlahu (kód",
+      "DÁREK",
+      "Návod k použití Každodenní rutina s balíčkem"
     ],
     "colors": [
       "#f4dcc7",
@@ -16020,10 +15984,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Návod k použití Pro každodenní úklid kuchyně",
+      "Úklid skleněných ploch",
+      "Úklid ostatních povrchů",
+      "Údržba úklidových pomůcek"
     ],
     "colors": [
       "#f4dcc7",
@@ -16056,10 +16020,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Jednoduchý rituál",
+      "Tři přírodní složky v jednom",
+      "Bohatý minerální profil",
+      "Měsíční kúra"
     ],
     "colors": [
       "#f4dcc7",
@@ -16097,10 +16061,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Hydratační fokus",
-      "Svěží vzhled",
-      "Lehká péče",
-      "Rychlá beauty rutina"
+      "Hloubkové čištění bez dráždění",
+      "Čistší póry a vyrovnaný maz",
+      "Podpora problematické pleti",
+      "Regenerace a sjednocení vzhledu"
     ],
     "colors": [
       "#f4dcc7",
@@ -16133,10 +16097,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Hydratační fokus",
-      "Svěží vzhled",
-      "Lehká péče",
-      "Rychlá beauty rutina"
+      "Hloubkové čištění",
+      "Zjemnění a sjednocení",
+      "Hydratace a komfort",
+      "Zpevňující dojem"
     ],
     "colors": [
       "#f4dcc7",
@@ -16173,10 +16137,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Vybraný produkt z feedu",
+      "Reálná skladovost",
+      "Připravené pro banner",
+      "Rychlé nasazení do kreativy"
     ],
     "colors": [
       "#f4dcc7",
@@ -16211,10 +16175,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Liftující dojem",
-      "Anti-age rutina",
-      "Prémiová péče",
-      "Výrazný hero produkt"
+      "Komplexní péče zevnitř",
+      "Přírodní složení bez zbytečných příměsí",
+      "Jednoduchý každodenní rituál",
+      "Podpora metabolismu a kontrola hmotnosti"
     ],
     "colors": [
       "#f4dcc7",
@@ -16249,10 +16213,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Liftující dojem",
-      "Anti-age rutina",
-      "Prémiová péče",
-      "Výrazný hero produkt"
+      "Důkladné čištění",
+      "Pocit hydratace",
+      "Zjemnění pórů",
+      "Komfort pro citlivou pleť"
     ],
     "colors": [
       "#f4dcc7",
@@ -16290,10 +16254,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Hydratační fokus",
-      "Svěží vzhled",
-      "Lehká péče",
-      "Rychlá beauty rutina"
+      "Důkladné a šetrné čištění",
+      "Pocit svěžesti a hydratace",
+      "Matný a upravený vzhled",
+      "Příjemný rituál péče"
     ],
     "colors": [
       "#f4dcc7",
@@ -16331,10 +16295,9 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Péče o pleť",
+      "S vitamin e",
+      "Master Herb"
     ],
     "colors": [
       "#f4dcc7",
@@ -16372,10 +16335,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Obsah balíčku Čistící náplast na nos na",
+      "Návod k použití Příprava pleti",
+      "Aplikace náplasti",
+      "Doba působení"
     ],
     "colors": [
       "#f4dcc7",
@@ -16408,10 +16371,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Top produkt",
-      "Silný prodejní benefit",
-      "Vhodné pro e-shop banner",
-      "Univerzální použití"
+      "Viditelně čistší póry",
+      "Póry působí menší",
+      "Rychlý rituál",
+      "Praktické balení"
     ],
     "colors": [
       "#f4dcc7",
@@ -16489,10 +16452,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Hydratační fokus",
-      "Svěží vzhled",
-      "Lehká péče",
-      "Rychlá beauty rutina"
+      "Čištění bez kompromisů",
+      "Hydratace a svěžest po celý den",
+      "Pevné a silné vlasy",
+      "Ochrana před lupy a podrážděním"
     ],
     "colors": [
       "#f4dcc7",
@@ -16567,10 +16530,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Každodenní rutina",
-      "Svěží dojem",
-      "Pečující formule",
-      "Silný e-shop vizuál"
+      "Obnovená ochranná bariéra",
+      "Hebkost a snadné rozčesávání",
+      "Péče o konečky",
+      "Ochranný film"
     ],
     "colors": [
       "#f4dcc7",
@@ -16687,10 +16650,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Každodenní rutina",
-      "Svěží dojem",
-      "Pečující formule",
-      "Silný e-shop vizuál"
+      "Pocit posílených vlasů",
+      "Komfort pokožky hlavy",
+      "Šetrnost k barvě",
+      "Objem a svěžest"
     ],
     "colors": [
       "#f4dcc7",
@@ -16727,10 +16690,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Každodenní rutina",
-      "Svěží dojem",
-      "Pečující formule",
-      "Silný e-shop vizuál"
+      "Příjemná hydratace",
+      "Svěžest po celý den",
+      "Jemnost pro každodenní použití",
+      "Přirozený lesk a objem"
     ],
     "colors": [
       "#f4dcc7",
@@ -16767,10 +16730,10 @@ export const realProductFeed = [
     "cta": "Prohlédnout produkt",
     "badge": "Perselio feed",
     "benefits": [
-      "Relaxační rituál",
-      "Voňavý zážitek",
-      "Domácí wellness",
-      "Dárkový potenciál"
+      "Pocit svěžesti a čistoty",
+      "Přirozený lesk a hebkost",
+      "Jemné mytí bez sulfátů",
+      "Příjemný zázvorový rituál"
     ],
     "colors": [
       "#f4dcc7",

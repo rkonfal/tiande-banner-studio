@@ -87,8 +87,79 @@ def pick_colors(title: str):
     return ['#f4dcc7', '#fff8f3', '#d7b297']
 
 
-def make_benefits(title: str, description: str):
+def normalize_spaces(text: str) -> str:
+    return re.sub(r'\s+', ' ', text or '').strip()
+
+
+def short_benefit(text: str) -> str:
+    text = normalize_spaces(text)
+    text = re.sub(r'^(pro|vhodné pro|určeno pro)\s+', '', text, flags=re.I)
+    text = text.strip(' .,:;')
+    if not text:
+        return ''
+    if len(text) > 44:
+        words = text.split()
+        out = []
+        total = 0
+        for word in words:
+            if total + len(word) + (1 if out else 0) > 44:
+                break
+            out.append(word)
+            total += len(word) + (1 if out[:-1] else 0)
+        text = ' '.join(out).strip(' .,:;')
+    return text[:1].upper() + text[1:]
+
+
+def extract_bullets_from_description(description: str):
+    clean = normalize_spaces(description)
+    markers = [
+        'Klíčové benefity',
+        'Klicove benefity',
+        'Hlavní benefity',
+        'Hlavni benefity',
+    ]
+    for marker in markers:
+        if marker.lower() in clean.lower():
+            start = clean.lower().find(marker.lower()) + len(marker)
+            tail = clean[start:]
+            stop_markers = ['Složení a vlastnosti', 'Slozeni a vlastnosti', 'Jak používat', 'Jak pouzivat', 'Často kladené otázky', 'FAQ', 'Recenze', 'Zkušenosti zákaznic']
+            stop = len(tail)
+            low_tail = tail.lower()
+            for stop_marker in stop_markers:
+                idx = low_tail.find(stop_marker.lower())
+                if idx != -1:
+                    stop = min(stop, idx)
+            block = tail[:stop]
+            parts = re.split(r'(?<=[.!?])\s+', block)
+            candidates = []
+            for part in parts:
+                if ':' in part:
+                    left = part.split(':', 1)[0]
+                    benefit = short_benefit(left)
+                    if 4 <= len(benefit) <= 44:
+                        candidates.append(benefit)
+            if len(candidates) >= 3:
+                return candidates[:4]
+    return []
+
+
+def make_benefits(title: str, description: str, parameters: dict[str, str] | None = None):
+    parameters = parameters or {}
     low = f'{title} {description}'.lower()
+
+    extracted = extract_bullets_from_description(description)
+    if len(extracted) >= 3:
+        return extracted[:4]
+
+    if 'deodorant' in low:
+        out = ['Čistý pocit po celý den']
+        active = parameters.get('Aktivní složky') or parameters.get('Aktivni slozky') or ''
+        if 'prebiotik' in low or 'prebiotik' in active.lower():
+            out.append('S prebiotiky')
+        if 'květin' in low or 'kvetin' in low:
+            out.append('Jemná květinová vůně')
+        out.append('Praktická každodenní péče')
+        return out[:4]
     if 'collagen' in low or 'kolagen' in low:
         return ['Liftující dojem', 'Anti-age rutina', 'Prémiová péče', 'Výrazný hero produkt']
     if 'hyaluron' in low:
@@ -98,10 +169,35 @@ def make_benefits(title: str, description: str):
     if 'olivy' in low:
         return ['Jemná péče', 'Příjemný pocit', 'Každodenní použití', 'Hebčí dojem']
     if 'sůl' in low or 'sul' in low:
-        return ['Relaxační rituál', 'Voňavý zážitek', 'Domácí wellness', 'Dárkový potenciál']
+        return ['Relaxační rituál', 'Voňavý zážitek', 'Domácí wellness', 'Hladší dojem pokožky']
     if 'vlasy' in low or 'šampon' in low or 'sampon' in low:
         return ['Každodenní rutina', 'Svěží dojem', 'Pečující formule', 'Silný e-shop vizuál']
-    return ['Top produkt', 'Silný prodejní benefit', 'Vhodné pro e-shop banner', 'Univerzální použití']
+
+    parameter_bits = []
+    line = parameters.get('Typ použití') or parameters.get('Typ pouziti')
+    if line:
+        parameter_bits.extend([short_benefit(x) for x in line.split(',')])
+    active = parameters.get('Aktivní složky') or parameters.get('Aktivni slozky')
+    if active:
+        first_active = short_benefit(active.split(',')[0])
+        if first_active:
+            parameter_bits.append(f'S {first_active.lower()}')
+    line_name = parameters.get('Produktová řada') or parameters.get('Produktova rada')
+    if line_name:
+        parameter_bits.append(short_benefit(line_name))
+
+    cleaned = [x for x in parameter_bits if 4 <= len(x) <= 44]
+    deduped = []
+    seen = set()
+    for item in cleaned:
+        key = item.lower()
+        if key not in seen:
+            seen.add(key)
+            deduped.append(item)
+    if len(deduped) >= 3:
+        return deduped[:4]
+
+    return ['Vybraný produkt z feedu', 'Reálná skladovost', 'Připravené pro banner', 'Rychlé nasazení do kreativy']
 
 
 def category_hint(title: str, description: str) -> str:
@@ -143,6 +239,14 @@ def build_products(root):
         if alt_images_parent is not None:
             alt_images = [img.text.strip() for img in alt_images_parent.findall('image_url') if img.text and img.text.strip()]
         description = text(item, 'description')
+        parameters = {}
+        params_parent = item.find('parameters')
+        if params_parent is not None:
+            for param in params_parent.findall('parameter'):
+                key = text(param, 'text')
+                value = text(param, 'value')
+                if key and value:
+                    parameters[key] = value
         category = category_hint(name, description)
         product = {
             'id': slugify(f"{name}-{text(item, 'id') or text(item, 'url').rstrip('/').split('/')[-1]}"),
@@ -161,7 +265,7 @@ def build_products(root):
             'subtitle': first_sentence(description),
             'cta': 'Prohlédnout produkt',
             'badge': 'Perselio feed',
-            'benefits': make_benefits(name, description),
+            'benefits': make_benefits(name, description, parameters),
             'colors': pick_colors(name),
             'packshotShape': pick_shape(name),
             'imagePath': image_url,
