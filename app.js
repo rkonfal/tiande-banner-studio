@@ -61,6 +61,7 @@ const editorSubheadline = document.querySelector('#editor-subheadline');
 const editorCta = document.querySelector('#editor-cta');
 const editorBadge = document.querySelector('#editor-badge');
 const editorBenefits = document.querySelector('#editor-benefits');
+const editorImageMode = document.querySelector('#editor-image-mode');
 const assetSlotsWrap = document.querySelector('#asset-slots');
 const saveEditorBtn = document.querySelector('#save-editor');
 const closeEditorBtn = document.querySelector('#close-editor');
@@ -243,23 +244,43 @@ function generateVariants(payload) {
       packshotShape: feedItem.packshotShape || 'jar',
       packshotPalette: feedItem.colors || ['#f4dcc7', '#fff8f3', '#d7b297'],
       imagePath: feedItem.imagePath || '',
+      altImagePaths: [...(feedItem.altImagePaths || [])],
       imagePaths: [...(feedItem.imagePaths || [])],
+      imageMode: payload.imageMode || 'auto',
     };
   });
 }
 
 function getVariantImageList(variant) {
   if (variant.sourceType === 'bundle') {
-    return (variant.imagePaths || []).filter(Boolean).slice(0, 2);
+    const mainImages = (variant.imagePaths || []).filter(Boolean);
+    const altImages = (variant.altImagePaths || []).filter(Boolean);
+    if (variant.imageMode === 'lifestyle') return (altImages.length ? altImages : mainImages).slice(0, 2);
+    if (variant.imageMode === 'packshot') return mainImages.slice(0, 2);
+    return (altImages.length ? altImages : mainImages).slice(0, 2);
   }
-  return [variant.imagePath].filter(Boolean);
+  const mainImage = variant.imagePath || '';
+  const altImage = (variant.altImagePaths || []).find(Boolean) || '';
+  if (variant.imageMode === 'lifestyle') return [altImage || mainImage].filter(Boolean);
+  if (variant.imageMode === 'packshot') return [mainImage].filter(Boolean);
+  return [altImage || mainImage].filter(Boolean);
 }
 
-function setVariantImageAt(variant, index, value) {
+function setVariantImageAt(variant, index, value, mode = 'packshot') {
   if (variant.sourceType === 'bundle') {
-    const current = [...(variant.imagePaths || [])];
+    if (mode === 'lifestyle') {
+      const current = [...(variant.altImagePaths || [])];
+      current[index] = value;
+      variant.altImagePaths = current;
+    } else {
+      const current = [...(variant.imagePaths || [])];
+      current[index] = value;
+      variant.imagePaths = current;
+    }
+  } else if (mode === 'lifestyle') {
+    const current = [...(variant.altImagePaths || [])];
     current[index] = value;
-    variant.imagePaths = current;
+    variant.altImagePaths = current;
   } else {
     variant.imagePath = value;
   }
@@ -326,21 +347,20 @@ function renderPreviewFormat(variant, format) {
 
 function renderAssetManager(variant) {
   assetSlotsWrap.innerHTML = '';
-  const fallbackImages = variant.sourceType === 'bundle'
-    ? [...(variant.imagePaths || [])]
-    : [variant.imagePath || ''];
-  const currentImages = getVariantImageList(variant);
   const slotCount = variant.sourceType === 'bundle' ? 2 : 1;
 
   for (let i = 0; i < slotCount; i += 1) {
-    const currentValue = currentImages[i] || fallbackImages[i] || '';
-    const draftKey = `${variant.id}:${i}`;
+    const isLifestyle = variant.imageMode === 'lifestyle';
+    const currentValue = isLifestyle
+      ? ((variant.altImagePaths || [])[i] || '')
+      : (variant.sourceType === 'bundle' ? ((variant.imagePaths || [])[i] || '') : (variant.imagePath || ''));
+    const draftKey = `${variant.id}:${variant.imageMode}:${i}`;
     const row = document.createElement('div');
     row.className = 'asset-slot';
     row.innerHTML = `
       <img class="asset-thumb" src="${currentValue || ''}" alt="asset preview" />
       <div class="asset-slot-fields">
-        <strong>Packshot ${i + 1}</strong>
+        <strong>${isLifestyle ? 'Lifestyle' : 'Packshot'} ${i + 1}</strong>
         <label>
           URL obrázku
           <input type="text" value="${currentValue}" data-role="asset-url" />
@@ -356,7 +376,7 @@ function renderAssetManager(variant) {
       </div>
     `;
 
-    const thumb = row.querySelector('.asset-thumb');
+    const thumb = row.querySelector('[data-role="asset-thumb"], .asset-thumb');
     const urlInput = row.querySelector('[data-role="asset-url"]');
     const uploadInput = row.querySelector('[data-role="asset-upload"]');
 
@@ -366,7 +386,7 @@ function renderAssetManager(variant) {
     });
 
     row.querySelector('[data-action="use-url"]').addEventListener('click', () => {
-      setVariantImageAt(variant, i, urlInput.value.trim());
+      setVariantImageAt(variant, i, urlInput.value.trim(), isLifestyle ? 'lifestyle' : 'packshot');
       renderAssetManager(variant);
       rerender();
     });
@@ -380,17 +400,17 @@ function renderAssetManager(variant) {
         reader.onerror = reject;
         reader.readAsDataURL(file);
       });
-      setVariantImageAt(variant, i, dataUrl);
+      setVariantImageAt(variant, i, dataUrl, isLifestyle ? 'lifestyle' : 'packshot');
       renderAssetManager(variant);
       rerender();
     });
 
     row.querySelector('[data-action="reset"]').addEventListener('click', () => {
       const feedEntry = getFeedEntry(variant.sourceType, form.elements.catalogId.value);
-      const resetValue = variant.sourceType === 'bundle'
-        ? (feedEntry.imagePaths || [])[i] || ''
-        : feedEntry.imagePath || '';
-      setVariantImageAt(variant, i, resetValue);
+      const resetValue = isLifestyle
+        ? ((feedEntry.altImagePaths || [])[i] || '')
+        : (variant.sourceType === 'bundle' ? ((feedEntry.imagePaths || [])[i] || '') : (feedEntry.imagePath || ''));
+      setVariantImageAt(variant, i, resetValue, isLifestyle ? 'lifestyle' : 'packshot');
       urlInput.value = resetValue;
       delete customAssetDraft[draftKey];
       renderAssetManager(variant);
@@ -409,6 +429,7 @@ function openEditor(variant) {
   editorCta.value = variant.cta || '';
   editorBadge.value = variant.badge || '';
   editorBenefits.value = (variant.benefits || []).join('\n');
+  editorImageMode.value = variant.imageMode || 'auto';
   renderAssetManager(variant);
   editorPanel.classList.remove('hidden');
   editorPanel.scrollIntoView({ behavior: 'smooth', block: 'start' });
@@ -554,10 +575,29 @@ function createGradient(ctx, width, height, colors) {
 function loadImage(src) {
   return new Promise((resolve, reject) => {
     const img = new Image();
+    img.crossOrigin = 'anonymous';
     img.onload = () => resolve(img);
     img.onerror = reject;
     img.src = src;
   });
+}
+
+function removeWhiteBackground(ctx, x, y, width, height) {
+  const imageData = ctx.getImageData(x, y, width, height);
+  const data = imageData.data;
+  for (let i = 0; i < data.length; i += 4) {
+    const r = data[i];
+    const g = data[i + 1];
+    const b = data[i + 2];
+    const brightness = (r + g + b) / 3;
+    const spread = Math.max(Math.abs(r - g), Math.abs(g - b), Math.abs(r - b));
+    if (brightness > 242 && spread < 18) {
+      data[i + 3] = 0;
+    } else if (brightness > 232 && spread < 24) {
+      data[i + 3] = Math.max(0, data[i + 3] - 180);
+    }
+  }
+  ctx.putImageData(imageData, x, y);
 }
 
 function drawPackshot(ctx, shape, x, y, width, height, palette, label) {
@@ -644,6 +684,10 @@ async function renderVariantPng(variant, format) {
         ctx.clip();
         ctx.drawImage(img, x, y, packshotAreaW, packshotAreaH);
         ctx.restore();
+        const shouldRemoveWhite = variant.imageMode !== 'lifestyle' && (!src.startsWith('data:') || variant.imageMode === 'packshot');
+        if (shouldRemoveWhite) {
+          removeWhiteBackground(ctx, Math.round(x), Math.round(y), Math.round(packshotAreaW), Math.round(packshotAreaH));
+        }
       } catch {
         drawPackshot(ctx, variant.packshotShape, packshotAreaX + idx * width * 0.06, packshotAreaY + idx * height * 0.03, packshotAreaW, packshotAreaH, variant.packshotPalette, variant.assetSlots[idx] || 'packshot');
       }
@@ -778,6 +822,8 @@ function applyProject(project) {
     benefits: [...(variant.benefits || [])],
     assetSlots: [...(variant.assetSlots || [])],
     imagePaths: [...(variant.imagePaths || [])],
+    altImagePaths: [...(variant.altImagePaths || [])],
+    imageMode: variant.imageMode || 'auto',
   }));
   if (project.projectName) projectNameInput.value = project.projectName;
   updateFeedStrip(inputType, project.form.catalogId);
@@ -978,8 +1024,17 @@ saveEditorBtn.addEventListener('click', () => {
   variant.cta = editorCta.value.trim() || variant.cta;
   variant.badge = editorBadge.value.trim() || variant.badge;
   variant.benefits = splitBenefits(editorBenefits.value);
+  variant.imageMode = editorImageMode.value || 'auto';
   rerender();
   closeEditor();
+});
+
+editorImageMode.addEventListener('change', () => {
+  const variant = variants.find((item) => item.id === activeEditorVariantId);
+  if (!variant) return;
+  variant.imageMode = editorImageMode.value || 'auto';
+  renderAssetManager(variant);
+  rerender();
 });
 
 closeEditorBtn.addEventListener('click', () => closeEditor());
@@ -1014,10 +1069,11 @@ approveAllBtn.addEventListener('click', () => {
 });
 
 populateCatalogSelect('product');
-const defaultItem = getCatalogEntry('product', 'kolagen-active') || getCatalogItems('product')[0];
+const defaultItem = getCatalogItems('product')[0];
 if (defaultItem) {
   hydrateFormFromCatalog(defaultItem, 'clean');
   catalogSelect.value = defaultItem.id;
+  form.elements.imageMode.value = 'auto';
   updateFeedStrip('product', defaultItem.id);
   variants = generateVariants({
     inputType: 'product',
@@ -1027,6 +1083,7 @@ if (defaultItem) {
     benefits: defaultItem.benefits.join('\n'),
     cta: defaultItem.cta,
     assetMode: 'auto',
+    imageMode: 'auto',
     variantCount: 5,
     styleFamily: 'clean',
   });
